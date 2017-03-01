@@ -21,6 +21,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 **1996**
 
 * **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
+* **SAP y FoxMeyer Drugs'** : [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
+
 
 **1997**
 
@@ -157,7 +159,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Accenture (implementador) y el sistema de pensiones de** **California**: [California's $500M state pension software system wracked by backlogs](http://www.computerworld.com/article/2503300/cloud-computing/california-s--500m-state-pension-software-system-wracked-by-backlogs.html) (Fuente: Eduardo Criado)
 * **Infor y Buckley Powder (EE.UU): **[Infor hit with lawsuit over alleged software project failure](http://www.pcworld.com/article/2044493/infor-hit-with-lawsuit-over-alleged-software-project-failure.html) (Fuente: Beatriz Franco)
 * **Lawson y Tucson Unified School District (EE.UU.)**: [Tucson school district weighs options for struggling ERP software project](http://www.computerworld.com/article/2494369/it-careers/tucson-school-district-weighs-options-for-struggling-erp-software-project.html) (Fuente: Marta Frías)
-* **Oracle y [US Air Force](http://www.airforce.com/)** : [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé)
+* **Oracle y [US Air Force](http://www.airforce.com/)** : [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé) [The U.S. Air Force Explains its $1 Billion ECSS Bonfire] (http://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Pablo Piedrafita)
 * **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co** : [Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](http://www.cio.com/article/2395555/enterprise-resource-planning/oracle-erp-project-woes-force-construction-firm-to-delay-financial-fili.html) (Fuente : Manuel Herrero)
 * **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)** : [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
 * **SAP y National Grid (EE.UU)** : [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
@@ -165,13 +167,15 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **2013**
 
-* **SAP y [Avon](http://www.avon.com/)** : [Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution](http://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution/) (Fuente: Beatriz Aguas)
+* **SAP y [Avon](http://www.avon.com/)** : [Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution](http://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution/) (Fuente: Beatriz Aguas) [Inside Avon's Failed Order-Management Project] (http://www.informationweek.com/software/information-management/inside-avons-failed-order-management-project/d/d-id/1113100) (Fuente: Pablo Piedrafita)
 * **SAP y el estado de [California](http://www.ca.gov/)** : [California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 * **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
 
 **2014**
 
 **2015**
+
+* **Oracle R12 and Siebel y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare] (https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 
 **2016**
 
