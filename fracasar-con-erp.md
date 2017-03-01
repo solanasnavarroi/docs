@@ -127,6 +127,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)** : [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)</span>
 * **SAP y [Shane Co](http://www.shaneco.com/)** : [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=awweg53wmmJw) (Fuente: Daniel Uroz)
 
+* **INFOR y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)** : [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
+
+
 **2010**
 
 * **JDA i2 y Dillard’s Inc : **[Dillard’s wins $246 million in damages vs. JDA, i2](http://www.reuters.com/article/jdasoftware-idUSSGE65F0GF20100616) (Fuente: Guillermo Azón)
