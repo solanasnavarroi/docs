@@ -40,7 +40,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **SAP y [Hershey's](http://www.hersheys.com/)** : [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](http://www.pemeco.com/wp-content/uploads/2013/09/Hershey_ERP_Case_Study.pdf) (Fuente: Andrés Julián)
 * **SAP y Omega (nombre ficticio, China)** : [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
-* **SAP y Whirpool** : [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu)
+* **SAP y Whirpool** : [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu) y [Failure analyses de whirlspool] (http://catalogue.pearsoned.ca/assets/hip/us/hip_us_pearsonhighered/samplechapter/0130650749.pdf) (Fuente: Iván Esteban)
 * **SAP y Dow Corning Corporation** : [Business Processes and Information Technology](http://dspace.mit.edu/bitstream/handle/1721.1/2652/SWP-3951-37733560-CISR-298.pdf), que explica por qué abandonan una inversión de 500 M$ en SAP R/2, [Transforming the Organization](http://dspace.mit.edu/bitstream/handle/1721.1/2750/SWP-4073-43797558-CISR-305.pdf) (Fuente: Marta Frías), caso que describe la migración de SAP R/2 a SAP R/3.
 
 **2000**
@@ -135,7 +135,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y condado de Dorset (RU)** : [Dorset County Council computer problems continue](http://www.dorsetecho.co.uk/news/8625142.Dorset_County_Council_computer_problems_continue/?ref=mr) (Fuente Alvaro Juan)
 * **SAIC y la ciudad de [Nueva York](http://www1.nyc.gov/)** : ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé) [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean) 
 * **Unisys y el estado de [Idaho](http://www.idaho.gov/)** : [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
-
+* **Queensland Health** : [Shared Services Initiative – LATTICE replacement] (http://calleam.com/WTPF/?p=3105 ) (Fuente: Iván Esteban)
 **2011**
 
 * **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** : [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
