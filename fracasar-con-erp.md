@@ -123,10 +123,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **Epicor y Ferrazzoli (EE.UU.): **[Ferazzoli Imports of New England Inc v. Epicor Software Corp](https://dockets.justia.com/docket/connecticut/ctdce/3:2009cv00668/85226/) (Fuente: Álvaro Juen)
 * **IBM y el estado de Pennsylvania** : [Pennsylvania Kills An IBM Contract That's 3 Years Late And $60 Million Over Budget](http://www.businessinsider.com/pennsylvania-kills-ibm-project-2013-8) (Fuente: Pablo Lanaspa)
-
-* **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)** : [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)</span>
+* **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)** : [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)
 * **SAP y [Shane Co](http://www.shaneco.com/)** : [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=awweg53wmmJw) (Fuente: Daniel Uroz)
-
 * **INFOR y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)** : [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
 
 
