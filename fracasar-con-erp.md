@@ -99,7 +99,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **Bearing Point y Department of Homeland Security (EE.UU.)** : [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
 * **Eclipsys Corporation y [El Camino Hospital](http://www.elcaminohospital.org/)** : [Report: ECHO caused problems for hospital](http://www.mv-voice.com/print/story/2006/07/14/hospital-vexed-by-new-computer-system) (Fuente: Edgar Arnal)
-* **SAP y Portland City (Oregon)** : [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)  
+* **SAP y Portland City (Oregon)** : [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
+* **Shane Company: Lessons Learned From an ERP Implementation Failure** :http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/ (Fuente: Andrés Soldevilla)
 
 **2007**
 
