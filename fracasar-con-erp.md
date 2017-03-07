@@ -170,7 +170,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
 
 **2014**
-* **SAP, Oracle y TomorrowNow** : [Oracle, SAP settle long-running TomorrowNow lawsuit] (http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113)
+* **SAP, Oracle y TomorrowNow** : [Oracle, SAP settle long-running TomorrowNow lawsuit] (http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
 
 **2015**
 
