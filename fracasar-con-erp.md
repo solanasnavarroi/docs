@@ -10,7 +10,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/Default.aspx)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
 
-**1993**  
+**1993**
+* **SAP R/3 y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](http://intranet.hcly.se/admin/data/files/12/45175/247-%20Al-Mashari%20and%20Al-Mudimigh%202003-%20ERP.pdf) (Fuente: Eduardo Navarro)
 
 **1994**
 
@@ -106,6 +107,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle y Philadephia (EE.UU) : **[Philly flushes Oracle out of water bill project](http://www.computerworld.com/article/2549303/government-it/philly-flushes-oracle-out-of-water-bill-project.html) siendo resuelto el problema en 2008 con un nuevo proveedor y [Philadelphia's 'Ocean' Finally in Full Flow](http://www.computerworld.com/article/2551756/government-it/philadelphia-s--ocean--finally-in-full-flow.html) (Fuente: Juan Vela)
 * **SAP y [Waste Management](http://www.wm.com/index.jsp)** : [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa)
 * **SAP y Distrito Escolar de Los Ángeles (EE.UU.)** : [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
+* **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)** : [ERP implementation at SMEs: analysis of five Canadian cases](http://www.emeraldinsight.com/doi/abs/10.1108/01443570910925343) (Fuente : Eduardo Navarro)
 
 **2008**
 
@@ -119,6 +121,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [Select Confort](http://www.sleepnumber.com/)** : [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas), [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
 * **SAP y Birmingham City Council (R.U.): **[SAP go-live leaves 18,000 unpaid bills at Europe's largest local authority - what went wrong](http://www.computerweekly.com/blogs/public-sector/2008/02/sap-golive-leaves-18000-unpaid-1.html) (Fuente: Juan Vela)
 * **ERP ficticio y Bodegas Olaya (Colombia, empresa ficticia)**: [Hay vida después de un ERP?](https://www.icesi.edu.co/blogs/hayvidadespuesdeunerp/) (Fuente: Marta Frías) es un caso de implementación problemática de un ERP en una empresa colombiana grande.
+* **SAP,Logo,Mincom,Qlink e Industrias Iranies** : [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
 
 **2009**
 
