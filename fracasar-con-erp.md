@@ -67,6 +67,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle y PharmaCo (nombre ficticio, China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 * **Oracle PeopleSoft y [University of Wisconsing-Superior](http://www.uwsuper.edu/index.htm)** : [Lessons from an ERP Implementation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=946615) (Fuente: Edgar Arnal)
 * **SAP y el estado de [Arkansas](http://www.state.ar.us/)** : [SAP agrees to fix Arkansas ERP system, settles lawsuit charging that system is not accessible to blind state employees](http://www.computerworld.com/article/2532356/enterprise-applications/sap-agrees-to-fix-arkansas-erp-system.html) (Fuente: Eduardo Mindam). El problema se detectó en 2001 (incumplimiento de la norma de accesibilidad) y se resuelve en 2008 tras llegar un acuerdo para actualizar el sistema para soportar el acceso a personas ciegas (Fuente: Beatriz Franco).
+* **SAP R3(Farshad Salimi,China)** : [http://ajouronline.com/index.php/AJBM/article/view/1541] (Fuente:Andrés Soldevilla)
 
 **2002**
 
@@ -104,6 +105,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Bearing Point y Department of Homeland Security (EE.UU.)** : [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
 * **Eclipsys Corporation y [El Camino Hospital](http://www.elcaminohospital.org/)** : [Report: ECHO caused problems for hospital](http://www.mv-voice.com/print/story/2006/07/14/hospital-vexed-by-new-computer-system) (Fuente: Edgar Arnal)
 * **SAP y Portland City (Oregon)** : [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
+* **Shane Company: Lessons Learned From an ERP Implementation Failure** :http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/ (Fuente: Andrés Soldevilla)
 * **Infor Global Solutions y (Western Textile Company)** : [Enterprise Software Companies are Human Too](http://www.erp.com/component/content/article/337-articles-a-news/erp-software/9372-enterprise-software-companies-are-human-too--part-four.html) ( Fuente: Adrián Crespo ).
 
 **2007**
