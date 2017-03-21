@@ -148,7 +148,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y condado de Dorset (RU)** : [Dorset County Council computer problems continue](http://www.dorsetecho.co.uk/news/8625142.Dorset_County_Council_computer_problems_continue/?ref=mr) (Fuente Alvaro Juan)
 * **SAIC y la ciudad de [Nueva York](http://www1.nyc.gov/)** : ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé) [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean) 
 * **Unisys y el estado de [Idaho](http://www.idaho.gov/)** : [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
-
+* **IBM y Queensland Health** : [Shared Services Initiative – LATTICE replacement](http://calleam.com/WTPF/?p=3105) (Fuente: Iván Esteban)
 **2011**
 
 * **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** : [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
