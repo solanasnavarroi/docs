@@ -116,8 +116,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)** : [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
 * **IBM y [American LaFrance](http://www.americanlafrance.com/)** : [Customer blames bankruptcy on IBM IT failure](http://www.zdnet.com/blog/projectfailures/customer-blames-bankruptcy-on-ibm-it-failure/583) (Fuente: William Kokora)
-* **Infor y Carver Pump Company:** [Infor battles customers in court over licences fees](http://www.itjungle.com/tfh/tfh030909-printer03.html) (Fuente: Beatriz Franco)
-* **Lawson Software y [Public Health Foundation Enterprises](https://www.phfe.org/)** : [Nonprofit Sues Lawson Over Alleged ERP Failure](http://www.pcworld.com/article/170600/article.html) (Fuente: Eduardo Mindan), Página más completas sobre el mismo fallo de ERP: [Lawson Software sued over alleged ERP failure](http://www.computerworld.com/article/2527365/it-management/lawson-software-sued-over-alleged-erp-failure.html) ( Fuente: Adrián Crespo )
+* **Infor y Carver Pump Company :** [Infor battles customers in court over licences fees](http://www.itjungle.com/tfh/tfh030909-printer03.html) (Fuente: Beatriz Franco) (https://www.juralindex.com/civil/carver-pump-company-v-infor-global-solutions-michigan-inc-case-details-ca55040376a18f82cb18be4f2188f485.html) (Fuente: Marina Ariño)
+* **Lawson Software y [Public Health Foundation Enterprises](https://www.phfe.org/)** : [Nonprofit Sues Lawson Over Alleged ERP Failure](http://www.pcworld.com/article/170600/article.html) (Fuente: Eduardo Mindan) 
 * **Oracle y Overstock.com** : [Overstock.com's Four-Year ERP Nightmare](http://www.cio.com/article/2373728/enterprise-software/overstock-com-s-four-year-erp-nightmare.html) (Fuente: Pablo Lanaspa)
 * **Ross Systems y [Sunshine Mills](http://www.sunshinemills.com/)** : [Jury Awards Pet Food Maker $61 Million in ERP Suit](http://www.cio.com/article/2412906/enterprise-software/jury-awards-pet-food-maker--61-million-in-erp-suit.html) (Fuente: David Enjuanes)
 * **SAP y Levi Strauss** : [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
@@ -132,6 +132,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **IBM y el estado de Pennsylvania** : [Pennsylvania Kills An IBM Contract That's 3 Years Late And $60 Million Over Budget](http://www.businessinsider.com/pennsylvania-kills-ibm-project-2013-8) (Fuente: Pablo Lanaspa)
 * **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)** : [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)
 * **SAP y [Shane Co](http://www.shaneco.com/)** : [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=awweg53wmmJw) (Fuente: Daniel Uroz)
+* **INFOR y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)** : [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
+
 
 **2010**
 
