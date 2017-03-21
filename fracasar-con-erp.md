@@ -119,7 +119,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **IBM y [American LaFrance](http://www.americanlafrance.com/)** : [Customer blames bankruptcy on IBM IT failure](http://www.zdnet.com/blog/projectfailures/customer-blames-bankruptcy-on-ibm-it-failure/583) (Fuente: William Kokora)
 * **Infor y Carver Pump Company :** [Infor battles customers in court over licences fees](http://www.itjungle.com/tfh/tfh030909-printer03.html) (Fuente: Beatriz Franco) (https://www.juralindex.com/civil/carver-pump-company-v-infor-global-solutions-michigan-inc-case-details-ca55040376a18f82cb18be4f2188f485.html) (Fuente: Marina Ariño)
 * **Lawson Software y [Public Health Foundation Enterprises](https://www.phfe.org/)** : [Nonprofit Sues Lawson Over Alleged ERP Failure](http://www.pcworld.com/article/170600/article.html) (Fuente: Eduardo Mindan) 
-* **Oracle y Overstock.com** : [Overstock.com's Four-Year ERP Nightmare](http://www.cio.com/article/2373728/enterprise-software/overstock-com-s-four-year-erp-nightmare.html) (Fuente: Pablo Lanaspa)
+* **Oracle y Overstock.com** : [Overstock.com's Four-Year ERP Nightmare](http://www.cio.com/article/2373728/enterprise-software/overstock-com-s-four-year-erp-nightmare.html) (Fuente: Pablo Lanaspa)  [Overstock.com as an example of ERP failure](https://es.slideshare.net/sunidhikumari1/success-and-failure-examples-of-erp-implementation) (Fuente: Alfonso Delgado)
 * **Ross Systems y [Sunshine Mills](http://www.sunshinemills.com/)** : [Jury Awards Pet Food Maker $61 Million in ERP Suit](http://www.cio.com/article/2412906/enterprise-software/jury-awards-pet-food-maker--61-million-in-erp-suit.html) (Fuente: David Enjuanes)
 * **SAP y Levi Strauss** : [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
 * **SAP y [Select Confort](http://www.sleepnumber.com/)** : [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas), [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
@@ -186,6 +186,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
 
 **2014**
+* **SAP, Oracle y TomorrowNow** : [Oracle, SAP settle long-running TomorrowNow lawsuit] (http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
 
 **2015**
 
