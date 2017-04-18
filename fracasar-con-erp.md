@@ -158,7 +158,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 **2011**
 
 * **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** : [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
-* **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)** : [Government to scrap NPfIT NHS IT programme today](http://www.computerworlduk.com/news/it-business/government-to-scrap-npfit-nhs-it-programme-today-3305247/) (Fuente: Nerea Torres) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro)**  
+* **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)** : [Government to scrap NPfIT NHS IT programme today](http://www.computerworlduk.com/news/it-business/government-to-scrap-npfit-nhs-it-programme-today-3305247/) (Fuente: Nerea Torres) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y [Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)**
 * **EPICOR y [ParknPool](https://www.parknpool.com/)** : [Customer Sues Epicor After ERP Software Project Attempt Ends in 'big Mess'](http://www.pcworld.com/article/245151/customer_sues_epicor_after_erp_software_project_attempt_ends_in_big_mess.html)  (Fuente: Diego Grande)
 * **EPICOR y [Major Brands](http://www.majorbrands.com/)**: [Epicor sued after two-year project delivered 'useless' software](http://www.computerworlduk.com/news/infrastructure/3330195/epicor-sued-after-two-year-project-delivered-useless-software/) (Fuente: Guillermo Pérez)
 * **EPICOR y Group Manufacturing Services** : [Epicor Customer Lawsuit May Show Danger of Going Solo on ERP Software Project](http://www.pcworld.com/article/253507/epicor_customer_lawsuit_may_show_danger_of_going_solo_on_erp_software_project.html) (Fuente: Guillermo Robles)
@@ -201,3 +201,4 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 **2016**
 
 **2017**
+* **SAP y la cervecera [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja)
