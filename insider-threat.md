@@ -166,6 +166,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Immigration Officer Puts Wife on the No-Fly List](http://www.loweringthebar.net/2011/02/immigration-officer-puts-wife-on-the-no-fly-list.html) (Fuente: William Kokora) 
 * [Attack on law firm Locke Lord LLP](http://www.darkreading.com/operations/9-years-prison-$17-million-fine-for-malicious-insider-/d/d-id/1325166) (Fuente: Beatriz Pérez)
 
+**2014**
+* [Morrisons’ 2014 data leak was a revenge hack from former employee](http://www.itproportal.com/2015/07/16/morrisons-2014-data-leak-was-an-act-of-bizarre-revenge/) (Fuente: Andrés Soldevilla)
+
 **2015**
 
 * [Ashley Madison database stolen by lone female who worked for Avid Life Media](http://www.ibtimes.co.uk/john-mcafee-ashley-madison-database-stolen-by-lone-female-who-worked-avid-life-media-1516833) (Fuente: Ana Roig)
