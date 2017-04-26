@@ -120,6 +120,10 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 ## Saboteadores
 
+**2005**
+
+* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html) (Fuente: David Puente Mur)
+
 **2007**
 
 * [Unix admin pleads guilty to planting logic bomb at Medco Health](http://www.computerworld.com/s/article/9038218/Unix_admin_pleads_guilty_to_planting_logic_bomb_at_Medco_Health)
