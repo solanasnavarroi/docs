@@ -73,6 +73,10 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Throwback Thursday: Bank doesn't know who stole data](http://www.observeit.com/blog/throwback-thursday-bank-doesn%E2%80%99t-know-who-stole-data) (Fuente: Guillermo Azón)
 * [Mercedes demanda a un empleado por robo de datos](http://www.gpupdate.net/es/noticias-f1/333841/mercedes-demanda-a-un-empleado-por-robo-de-datos/) (Fuente: Daniel Cabrera)
 * [CDOT employee stole contractors' personal information](http://www.9news.com/news/cdot-employee-stole-contractors-personal-information/175000302) (Fuente: Santiago Morón)
+* [Piden cárcel para un acusado de robar datos de su antigua empresa](http://www.lavozdegalicia.es/noticia/vigo/vigo/2015/02/24/piden-carcel-acusado-robar-datos-antigua-empresa/0003_201502V24C5995.htm) (Fuente: David Abián)<br>
+[Norprevención](http://www.norprevencion.com/es) es una empresa gallega de prevención de riesgos laborales. Uno de sus directores comerciales, tras un conflicto con la compañía, pasó a trabajar para otra empresa y aprovechó la base de datos de clientes de la primera para ofrecer ventajas competitivas a la segunda.<br>
+Un [despido seguro](https://en.wikipedia.org/wiki/Employee_exit_management) guiado por un HRMS en cuanto se produjo el conflicto entre el director comercial y Norprevención podría haber evitado el acceso a los datos robados. Si el despido no era procedente, se podría haber mitigado la voluntad de robo tratando el conflicto con buenas prácticas de gestión de riesgos, seguimiento y retención del talento.<br>
+Ejemplo de *software* compatible con la estrategia descrita: el [módulo Help Desk](http://www.exentahrms.com/help-desk/) para gestionar el conflicto inicial y, en caso de que el despido fuera procedente, el [módulo Exit Management](http://www.exentahrms.com/exit-management/) para gestionarlo, ambos integrados en el mismo producto, [Exenta HRMS](http://www.exentahrms.com/).
 
 ## Ladrones de dinero
 
