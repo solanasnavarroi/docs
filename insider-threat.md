@@ -65,6 +65,12 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Ex-employee of Alipay among 3 suspected of stealing customer data since 2010](http://www.shanghaidaily.com/Business/it/Exemployee-of-Alipay-among-3-suspected-of-stealing-customer-data-since-2010/shdaily.shtml) (Fuente: Javier Tello)
 * [The Impact of Insider Threats – The South Korea Episode](http://blog.imperva.com/2014/01/the-impact-of-insider-threats-the-south-korea-episode.html). (Fuente: Guillermo Pérez)
+* [Insider Threats from Privileged Users](http://pages.observeit.com/rs/248-SYG-803/images/Case-Study-Insider-Threats-from-Privileged-Users.pdf). 
+Rich Malewicz, CISO de Livingston County, condujo una investigación para encontrar posibles amenazas internas, por ello instaloel software ObserveIt y descubrio que uno de sus empleados estaba accediendo a zonas de la empresa a las cuales no estaba autorizado, cogiendo las contraseñas de sus compañeros de manera remota.
+La estrategia a usar es un programa de control que compruebe la actividad de los empleados tal y como se explica en el caso.
+** [ObserveIt](https://www.observeit.com/). (Fuente: Álvaro Gómez Muñoz)
+
+
 
 **2015**
 
