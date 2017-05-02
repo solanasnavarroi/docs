@@ -68,7 +68,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Insider Threats from Privileged Users](http://pages.observeit.com/rs/248-SYG-803/images/Case-Study-Insider-Threats-from-Privileged-Users.pdf). 
 Rich Malewicz, CISO de Livingston County, condujo una investigación para encontrar posibles amenazas internas, por ello instaloel software ObserveIt y descubrio que uno de sus empleados estaba accediendo a zonas de la empresa a las cuales no estaba autorizado, cogiendo las contraseñas de sus compañeros de manera remota.
 La estrategia a usar es un programa de control que compruebe la actividad de los empleados tal y como se explica en el caso.
-** [ObserveIt](https://www.observeit.com/). (Fuente: Álvaro Gómez Muñoz)
+*Aplicacion* [ObserveIt](https://www.observeit.com/). (Fuente: Álvaro Gómez Muñoz)
 
 
 
