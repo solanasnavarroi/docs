@@ -169,6 +169,16 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 **2014**
 * [Morrisons’ 2014 data leak was a revenge hack from former employee](http://www.itproportal.com/2015/07/16/morrisons-2014-data-leak-was-an-act-of-bizarre-revenge/) (Fuente: Andrés Soldevilla)
 
+** Descripción: **
+Andrew Skelton era un auditor de IT para Morrisons, utilizaba la dirección de la oficina para realizar compras y ventas por eBay, sin embargo, la empresa creyó que a lo que se dedicaba era a traficar con droga. Este incidente le sentó muy mal y decidió robar y filtrar toda la base de datos de 100.000 nóminas a los periodistas. Se le arresto muy rápido. Se calcula que a Morrison le costó 2 millones de libras arreglar la filtración de datos.
+
+** Propuesta de estrategia basada en un módulo HRIS que podría haber sido utilizada para evitarlo o mitigarlo: **
+Se podría utilizar un módulo de HRIS que pudiese monitorizar todas las aplicaciones y el uso que se está haciendo de ella por parte de cada empleado. Así si se detectan picos muy grandes de acceso a bases de datos con información sensible se podría lanzar una alarma y bloquear accesos automáticamente.
+
+**Nombre del módulo y enlace:**
+[http://hrs.missouri.edu/docs/pssecurity.pdf]
+
+
 **2015**
 
 * [Ashley Madison database stolen by lone female who worked for Avid Life Media](http://www.ibtimes.co.uk/john-mcafee-ashley-madison-database-stolen-by-lone-female-who-worked-avid-life-media-1516833) (Fuente: Ana Roig)
