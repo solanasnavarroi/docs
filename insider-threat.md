@@ -176,7 +176,7 @@ Andrew Skelton era un auditor de IT para Morrisons, utilizaba la dirección de l
 Se podría utilizar un módulo de HRIS que pudiese monitorizar todas las aplicaciones y el uso que se está haciendo de ella por parte de cada empleado. Así si se detectan picos muy grandes de acceso a bases de datos con información sensible se podría lanzar una alarma y bloquear accesos automáticamente.
 
 **Nombre del módulo y enlace:**
-[http://hrs.missouri.edu/docs/pssecurity.pdf]
+* [http://hrs.missouri.edu/docs/pssecurity.pdf]
 
 
 **2015**
