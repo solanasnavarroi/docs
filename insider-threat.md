@@ -136,7 +136,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 **2005**
 
-* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html) (Fuente: David Puente Mur)
+* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html)  
+  * **Fuente**: David Puente Mur
+  * **Descripción**: Tras un desacuerdo laboral cuatro empleados de una empresa familiar de transporte se confabularon a modo de extorsión para cogerse varias bajas consecutivas por dolencias supuestamente simuladas ya que eran fáciles de fingir y difíciles de objetivizar por facultativos llegando a llevar a la empresa a la quiebra pese a haber sido finalmente despedidos.
 
 **2007**
 
