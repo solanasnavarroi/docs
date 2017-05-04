@@ -129,7 +129,10 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [LA engineers cop to traffic system sabotage](http://www.theregister.co.uk/2008/11/06/traffic_control_system_sabotage/) (Fuente: Adrián Moreno y Eduardo Criado)
 
 **2012**
-* [IT pro gets prison time for sabotaging ex-employer's system](http://www.pcworld.com/article/2158020/it-pro-gets-prison-time-for-sabotaging-exemployers-system.html) (Fuente: Marina Ariño) (Descripción: Ricky Joe Mitchell exingeniero de la empresa de petróleo y gas EnerVest se enteró en 2012 que iba a ser despedido y decidió restablecer los servidores de la compañía a su configuración de fábrica. También desactivó el equipo de enfriamiento para los sistemas y deshabilitó un proceso de replicación de datos. Esto dejo a EnerVest incapaz de "comunicarse plenamente o llevar a cabo operaciones comerciales" durante unos 30 días. Las acciones de Mitchell costaron a EnerVest más de 1 millon de dolares.) (Estrategia: Seleccionar muy bien a quién conceder privilegios (en este caso, para restablecer los servidores o deshabilitar proceso replicación de datos), tener información sensible encriptada, control de presencia: vigilar quién accede o puede acceder a zonas criticas como los servidores o las maquinas de enfriamiento.)
+* [IT pro gets prison time for sabotaging ex-employer's system](http://www.pcworld.com/article/2158020/it-pro-gets-prison-time-for-sabotaging-exemployers-system.html)  
+  * **Fuente**: Marina Ariño
+  * **Descripción**: Ricky Joe Mitchell exingeniero de la empresa de petróleo y gas EnerVest se enteró en 2012 que iba a ser despedido y decidió restablecer los servidores de la compañía a su configuración de fábrica. También desactivó el equipo de enfriamiento para los sistemas y deshabilitó un proceso de replicación de datos. Esto dejo a EnerVest incapaz de "*comunicarse plenamente o llevar a cabo operaciones comerciales*" durante unos 30 días. Las acciones de Mitchell costaron a EnerVest más de 1 millon de dolares.
+  * **Estrategia**: Seleccionar muy bien a quién conceder privilegios (en este caso, para restablecer los servidores o deshabilitar proceso replicación de datos), tener información sensible encriptada, control de presencia: vigilar quién accede o puede acceder a zonas criticas como los servidores o las maquinas de enfriamiento.
 
 **2013**
 
