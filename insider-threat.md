@@ -62,7 +62,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Fuente**: David Abián
   * **Descripción**: [Norprevención](http://www.norprevencion.com/es) es una empresa gallega de prevención de riesgos laborales. Uno de sus directores comerciales, tras un conflicto con la compañía, pasó a trabajar para otra empresa y aprovechó la base de datos de clientes de la primera para ofrecer ventajas competitivas a la segunda.
   * **Estrategia**: Un [despido seguro](https://en.wikipedia.org/wiki/Employee_exit_management) guiado por un HRMS en cuanto se produjo el conflicto entre el director comercial y Norprevención podría haber evitado el acceso a los datos robados. Si el despido no era procedente, se podría haber mitigado la voluntad de robo tratando el conflicto con buenas prácticas de gestión de riesgos, seguimiento y retención del talento.
-  * **Solucin**: Ejemplo de *software* compatible con la estrategia descrita: el [módulo Help Desk](http://www.exentahrms.com/help-desk/) para gestionar el conflicto inicial y, en caso de que el despido fuera procedente, el [módulo Exit Management](http://www.exentahrms.com/exit-management/) para llevarlo a cabo, ambos integrados en el mismo producto, [Exenta HRMS](http://www.exentahrms.com/).
+  * **Solución**: Ejemplo de *software* compatible con la estrategia descrita: el [módulo Help Desk](http://www.exentahrms.com/help-desk/) para gestionar el conflicto inicial y, en caso de que el despido fuera procedente, el [módulo Exit Management](http://www.exentahrms.com/exit-management/) para llevarlo a cabo, ambos integrados en el mismo producto, [Exenta HRMS](http://www.exentahrms.com/).
 
 **2008**
 
