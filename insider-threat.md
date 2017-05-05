@@ -1,6 +1,6 @@
 # Insider threat
 
-Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) como una amenaza maliciosa a una organización que procede de personas de dentro de la propia organización, como empleados, contratistas y socios, que tienen información interna relacionada con la seguridad y los sistemas informáticos. Esta página contiene ejemplos reales organizados por categorías y año.
+Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) como una amenaza maliciosa a una organización que procede de personas de dentro de la propia organización, como empleados, contratistas y socios, que tienen información interna relacionada con la seguridad y los sistemas informáticos. Esta página contiene ejemplos reales organizados por categorías y año.  
 
 
 ## Ladrones de secretos
