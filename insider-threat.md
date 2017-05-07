@@ -162,6 +162,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Germanwings Shows Need for Hunting Insider Threats](http://blogs.wsj.com/riskandcompliance/2015/04/07/the-morning-risk-report-germanwings-shows-need-for-hunting-insider-threats-2-newsletter-draft/) (2015, Fuente: Raúl Piracés)
 
+**2016**
+
+* [Cuatro detenidos por sabotaje a la empresa en que trabajaban](http://www.lavozdegalicia.es/noticia/galicia/2006/08/24/cuatro-detenidos-sabotaje-empresa-trabajaban/0003_5050114.htm)
+  * **Fuente**: Iván Esteban
+  * **Descripción**: Cuatro hombres están acusados de atacar el servidor informático y destruir los datos de la empresa. De ellos dos eran ex-empleados mientras que, los otros dos continuaban trabajando en la misma y habían pedido hace cuatro meses el finiquito y una indemnización por despido; el dueño de la empresa no aceptó esta propuesta. 
+  * **Estrategia**: Seleccionar a quien se conceden privilegios, especialmente para acceder y modificar información sensible, tener esta información  encriptada y en backup (al cual solo puedan acceder los empleados de más confianza), además de monitorizar y crear alarmas cuando se modifican o eliminan datos sensibles.
+  * **Solución**: Uso de software que audita los ficheros .log como por ejemplo LogSentry (antes llamado Logcheck), el cual avisa cuando ocurre una incidencia. Por ejemplo cuando se introduce mal una contraseña o, en este caso cuando un antiguo empleado accede al sistema o cuando se borra una serie de datos concreta.
+
 ## Filtradores
 
 **2007**
