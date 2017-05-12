@@ -199,8 +199,12 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: Se podría utilizar un módulo de HRIS que pudiese monitorizar todas las aplicaciones y el uso que se está haciendo de ella por parte de cada empleado. Así si se detectan picos muy grandes de acceso a bases de datos con información sensible se podría lanzar una alarma y bloquear accesos automáticamente.
   * **Solución**: Por ejemplo, si el software es *PeopleSoft HR/Payroll* se puede utilizar [PeopleSoft HR/Payroll Security Access Request System](http://hrs.missouri.edu/docs/pssecurity.pdf) para controlar el acceso
 
-* [Sony Pictures hack](http://www.esecurityplanet.com/network-security/researchers-say-sony-hack-was-insider-breach.html/)
+* [Sony Pictures hack](http://www.esecurityplanet.com/network-security/researchers-say-sony-hack-was-insider-breach.html)
   * **Fuente**: Javier Perales
+  * **Descrición**: Este es el famoso ataque a Sony Pictures cuando estaban a punto de estrenar la película "The Interview" en la que la CIA asesinaba al líder Norcoreano Kim Jong Un. Dada la coincidencia del ciberataque con el estreno de la película, en un primer momento se sospechó que podía ser un ataque orquestado por Corea del Norte, sin embargo, con el tiempo se descubrió que éste ataque había sido perpetrado por un grupo organizado de hacktivistas, entre los que se encontraba un antiguo trabajador descontento de Sony Pictures.
+El ataque consistió en robo de información personal de los trabajadores, robo de películas que fueron distribuidas antes de su estreno oficial y borrado de datos, entre otras cosas.
+  * **Estrategia**: La instalación de un módulo capaz de restringir el acceso de cada empleado a la coleccion de datos estrictamente necesaria para desarrollar su trabajo, hubiera podido evitar que se comprometiesen cantidades tan grandes de datos. Ningún usuario del sistema tendría acceso simultaneo a datos tan dispares como pasaportes, o números de la seguridad social de empleados, listines telefónicos de actores, y guiones de películas en proceso de producción.
+  * **Solución**: Una de las soluciones disponibles en el mercado es el HRMS de Oracle [HRMS Oracle](https://www.oracle.com/es/hrms/index.html), el cual permite establecer perfiles para los empleados para restringir el acceso a los datos a los que un determinado empleado no necesita acceder para el desempeño de sus funciones. Evitando así en cierta medida, la cantidad de datos que un empleado descontento o despistado podría comprometer.
 
 **2015**
 
