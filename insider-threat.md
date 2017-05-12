@@ -199,6 +199,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: Se podría utilizar un módulo de HRIS que pudiese monitorizar todas las aplicaciones y el uso que se está haciendo de ella por parte de cada empleado. Así si se detectan picos muy grandes de acceso a bases de datos con información sensible se podría lanzar una alarma y bloquear accesos automáticamente.
   * **Solución**: Por ejemplo, si el software es *PeopleSoft HR/Payroll* se puede utilizar [PeopleSoft HR/Payroll Security Access Request System](http://hrs.missouri.edu/docs/pssecurity.pdf) para controlar el acceso
 
+* [Sony Pictures hack](http://www.esecurityplanet.com/network-security/researchers-say-sony-hack-was-insider-breach.html/)
+  * **Fuente**: Javier Perales
+
 **2015**
 
 * [Ashley Madison database stolen by lone female who worked for Avid Life Media](http://www.ibtimes.co.uk/john-mcafee-ashley-madison-database-stolen-by-lone-female-who-worked-avid-life-media-1516833) (Fuente: Ana Roig)
