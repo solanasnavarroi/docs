@@ -1,6 +1,6 @@
 # Insider threat
 
-Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) como una amenaza maliciosa a una organización que procede de personas de dentro de la propia organización, como empleados, contratistas y socios, que tienen información interna relacionada con la seguridad y los sistemas informáticos. Esta página contiene ejemplos reales organizados por categorías y año.  
+Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) como una amenaza maliciosa a una organización que procede de personas de dentro de la propia organización, como empleados, contratistas y socios, que tienen información interna relacionada con la seguridad y los sistemas informáticos. Esta página contiene ejemplos reales organizados por categorías y año.
 
 
 ## Ladrones de secretos
@@ -72,10 +72,10 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Tres años de prisión por robar y revelar información de su empresa](http://www.expansion.com/2011/01/05/juridico/1294267832.html)
 [ALTEN Ingeniería vs Ernesto](http://www.belt.es/jurisprudencia/anterior/seg_corporativa/pdf/171110-penal-espionaje%20industrial.pdf)
-* **Fuente**: Fuente: Andrés Julian, corregido Eduardo Navarro
+  * **Fuente**: Fuente: Andrés Julian, corregido Eduardo Navarro
   * **Descripción**: [Alten Ingenieria](http://www.alten.es/) es una empresa dedicada a la consultoría en ingeniería, y su actividad se centra en el desarrollo por parte de sus consultores ingenieros de proyectos que encargan otras empresa.Ernesto, que trabajaba en Alten como manager, tras iniciar negociaciones para incorporarse a otra empresa, reenvió, desde el ordenador de la empresa a sus cuentas personales, numerosa información confidencial como datos de clientes, currículos dé ingenieros trabajadores de ALTEN, ofertas o propuestas de ejecución de proyectos enviadas por ALTEN a sus clientes, o solicitudes de propuestas de ejecución técnicas remitidas por los clientes de ALTEN. 
   * **Estrategia**: En primer lugar retención del talento, con una adecuada politica de RRHH podría haberse evitado la situación inicial en la que el trabajador se quiere ir. Un empleado que se encuentra satisfecho y valorado, y se identifica con los valores de la empresa, es más difícil que quiera marcharse, o por lo menos que se marche causando problemas. En segundo lugar una política de concienciación sobre la importancia de la confidencialidad de los datos y las consecuencias que tiene la exposición de los mismos. Y por último establecer una politica AAA (Authentication, Authorization and Accounting) controlando quién intenta acceder a datos confidenciales, dando acceso a los mismos solo a las personas necesarias, y auditando todos los accesos que se producen.
-  * **Solución**: Ejemplo de *software* compatible con la estrategia descrita: el [Oracle HCM](http://www.exentahrms.com/help-desk/) que tiene modulos adecuados para las 3 estrategias. El [módulo de gestión del talento](https://cloud.oracle.com/es_ES/talent-management-cloud),la [politica de comunicaciones](http://www.oraclehrms.com/oracle-advanced-benefits/communications), y para la política AAA el [módulo Identity Management de Oracle](https://www.oracle.com/middleware/identity-management/index.html).
+  * **Solución**: Ejemplo de *software* compatible con la estrategia descrita: el [Oracle HCM](http://www.exentahrms.com/help-desk/) que tiene modulos adecuados para las 3 estrategias. El [módulo de gestión del talento](https://cloud.oracle.com/es_ES/talent-management-cloud), la [politica de comunicaciones](http://www.oraclehrms.com/oracle-advanced-benefits/communications), y para la política AAA el [módulo Identity Management de Oracle](https://www.oracle.com/middleware/identity-management/index.html).
 
 
 **2014**
