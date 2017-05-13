@@ -97,6 +97,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Mercedes demanda a un empleado por robo de datos](http://www.gpupdate.net/es/noticias-f1/333841/mercedes-demanda-a-un-empleado-por-robo-de-datos/) (Fuente: Daniel Cabrera)
 * [CDOT employee stole contractors' personal information](http://www.9news.com/news/cdot-employee-stole-contractors-personal-information/175000302) (Fuente: Santiago Morón)
 
+**2017**
+
+* [Lawsuit filled in Flowers Hospital identity theft](http://www.dothaneagle.com/news/crime_court/lawsuit-against-flowers-hospital-over-theft-of-personal-information-attains/article_f89c75f0-0da9-11e7-823c-ef3a46dcb4a3.html)
+  * **Fuente**: Darío Sánchez Salvador
+  * **Descripcion**: Kamarian Millender fue detenido el 26 de Febrero acusado de traficar con identidades robadas. Al parecer, Millender, que trabajaba para el hospital en un laboratorio robó formularios con los datos de sus pacientes de forma sistemática entre Junio de 2013 y Febrero de 2014. Estas identidades, que incluían nombres, direcciones, numeros de seguridad social y hasta información médica, pudieron ser usadas para engañar a Hacienda.
+  * **Estrategia**: No tener papeles con informacion delicada rondando por salas inseguras, informatizarlos y encriptarlos lo antes posible si es totalmente necesario recogerlos en papel, y posteriormente destruirlos.
+  * **Solucion**: El uso de un ERP permite la creación de perfiles de cliente, y mas concretamente, empresas como [Arbentia](https://www.arbentia.com/software-erp-para-gestion-hospitalaria-y-salud-nav-crm/) ofrecen soluciones exclusivamente para Hospitales
+
 ## Ladrones de dinero
 
 **2015**
