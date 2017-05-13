@@ -205,6 +205,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 **2015**
 
 * [Aaron Swartz spent months stealing data from MIT, now facing 35 years in prison](http://www.geek.com/news/aaron-swartz-spent-months-stealing-data-from-mit-now-facing-35-years-in-prison-1404589/) (Fuente: Eduardo Ibáñez)
+* [Detienen a un empleado como presunto autor de la filtración de los Papeles de Panamá](http://es.gizmodo.com/detienen-a-un-empleado-como-presunto-autor-de-la-filtra-1782032091)
+  * **Fuente**: Víctor Lafaja
+  * **Descripción**: Un empleado de la firma [Mossack Fonseca](http://www.mossfon.com/es/) ha sido detenido en Ginebra como presunto autor de la filtración de datos que destapó el escándalo. El empleado es un técnico de sistemas que trabajó para la firma de abogados y puede ser el principal culpable de la filtración de más de 11'5 millones de documentos del bufete de abogados de origen panameño dedicado principalmente a la gestión de sociedades offshore.
+  * **Estrategia**: Seleccionar con mucha cautela a quiénes se conceden determinados permisos/privilegios dentro de la empresa para poder extraer determinada información.
+  * **Solución**: Implantar sistemas [IRM + DLP](https://www.secureit.es/sistemas-de-seguridad-it/dlp/) para poder controlar la información, el acceso y el uso de determinados archivos. Un ejemplo de este tipo de sistemas podría ser [Prot-On](https://www.prot-on.com/pruebalo.html).
 
 **2016**
 
