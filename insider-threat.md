@@ -55,6 +55,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Chesapeake alleges founder McClendon stole 'trade secrets' to start new firm](http://www.reuters.com/article/2015/02/17/us-chesapeake-mcclendon-lawsuit-utica-ex-idUSKBN0LL1FM20150217) (Fuente: Javier Murillo)
 * [Navy Civilian Engineer Pleads Guilty to attempted Espionage](https://www.fbi.gov/norfolk/press-releases/2015/navy-civilian-engineer-pleads-guilty-to-attempted-espionage) (Fuente: Victor Beltrán)
 
+**2016**
+
+* [NSA Thief Worked With Elite Hacker Squad](http://www.thedailybeast.com/articles/2016/10/05/nsa-thief-worked-with-elite-hacker-squad)
+  * **Fuente**: Pablo Piedrafita
+  * **Descripción**: Un estudiante de doctorado de la University of Maryland Baltimore County y antiguo "Navy officer", trabajando para la NSA como parte de un acuerdo entre las dos entidades es detenido por la extracción de ficheros altamente clasificados presuntamente con fines únicamente academicos, como dice su abogado: "There is no evidence that Hal Martin intended to betray his country."
+  * **Estrategia**: La NSA tras el filtrado de datos de Snowden pusó en marcha un sistema de detección de "insider-threat", solución más obvia para el caso, sin embargo no se sabe si el sistema falló o el filtrado de datos ocurrió antes de su implantación. En cualquier caso, tratandose de una de las agencias de inteligencia más importantes del mundo una solución comercial no sea posiblemente lo suficientemente segura, por lo que implantar un sistema de detección de amenazas internas propio sería la estrategia más acertada.
+  * **Solución**: Como se menciona antes, el desarrollo de un software propio para la detección de amenazas internas sería posiblemente la única solución viable dado que además se desconoce el método con el que pudo llevarse los datos a su casa. ¿Pero quién soy yo para opinar sobre lo que tiene que hacer la mayor agencia de inteligencia del mundo?
+
 ## Ladrones de datos
 
 **2005**
