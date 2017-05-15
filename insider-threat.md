@@ -96,7 +96,6 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Fuente**: Daniel Cabrera, completado por Alfonso Delgado
   * **Descripcion**: El empleado de Mercedes, Benjamin Hoyle, fue denunciado por la compañía Mercedes, al conocer que había accedido a documentos confidenciales, para luego entregarselos a Ferrari. Benjamin Hoyle era uno de los 4 jefes de ingeniería de rendimiento de Mercedes en la F1. Sin embargo, un día Hoyle anunció que había decidido cambiarse a Ferrari, por lo que se le restringió el acceso a documentos relacionados con la F1 hasta que su contrato en Mercedes finalizara. Sin embargo Hoyle logró acceder a los servidores de Mercedes y obtener documentos clasificados, aunque finalmente se descubrió todo al analizar su portátil.  
   * **Estrategia**: En este caso, la mejor solución habría sido que el sistema de permisos para acceder a los datos confidenciales de Mercedes hubieran funcionado de forma adecuada, para evitar que haya accesos a datos sensibles por parte de personas no deseadas. Además otra solución podría ser la encriptación de los ficheros en sus servidores, de tal forma que los ficheros accedidos por Hoyle hubieran sido inservibles para Ferrari.
-  
 * [CDOT employee stole contractors' personal information](http://www.9news.com/news/cdot-employee-stole-contractors-personal-information/175000302) (Fuente: Santiago Morón)
 
 **2017**
