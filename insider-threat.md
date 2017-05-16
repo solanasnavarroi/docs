@@ -76,6 +76,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: En primer lugar retención del talento, con una adecuada politica de RRHH podría haberse evitado la situación inicial en la que el trabajador se quiere ir. Un empleado que se encuentra satisfecho y valorado, y se identifica con los valores de la empresa, es más difícil que quiera marcharse, o por lo menos que se marche causando problemas. En segundo lugar una política de concienciación sobre la importancia de la confidencialidad de los datos y las consecuencias que tiene la exposición de los mismos. Y por último establecer una politica AAA (Authentication, Authorization and Accounting) controlando quién intenta acceder a datos confidenciales, dando acceso a los mismos solo a las personas necesarias, y auditando todos los accesos que se producen.
   * **Solución**: Ejemplo de *software* compatible con la estrategia descrita: el [Oracle HCM](http://www.exentahrms.com/help-desk/) que tiene modulos adecuados para las 3 estrategias. El [módulo de gestión del talento](https://cloud.oracle.com/es_ES/talent-management-cloud), la [politica de comunicaciones](http://www.oraclehrms.com/oracle-advanced-benefits/communications), y para la política AAA el [módulo Identity Management de Oracle](https://www.oracle.com/middleware/identity-management/index.html).
 
+**2013**
+
+* [Woodland Heights Medical Center Employee Stole 450 Patient Records](http://www.ktre.com/story/30704770/woodland-heights-employee-investigated-for-stealing-450-patients-info)
+  * **Fuente**: Adrián Crespo Miguel
+  * **Descripción**: Un guarda de Texas recientemente descubrió que un ex empleado de Woodland Heights Medical Center en Lufkin, TX, había estado robando los registros médicos de los pacientes mientras trabajaba en el hospital. Una búsqueda en la casa del empleado reveló aproximadamente 450 fichas con información reservada que se había tomado desde el hospital.
+  * **Estrategia**: No tener papeles con informacion confidencial a la vista y acceso de todo el mundo, tratar de llevar un control de quien accede a los datos en todo momento y de que esos datos no puedan salir del entorno laboral protegido
+  * **Solución**: Gestionar los datos mediante algún sistema de información que pueda establecer un control de acceso para saber que personas acceden a los datos en cada momento.
 
 **2014**
 
