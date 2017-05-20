@@ -82,7 +82,6 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Fuente**: Adrián Crespo Miguel
   * **Descripción**: Un guarda de Texas recientemente descubrió que un ex empleado de Woodland Heights Medical Center en Lufkin, TX, había estado robando los registros médicos de los pacientes mientras trabajaba en el hospital. Una búsqueda en la casa del empleado reveló aproximadamente 450 fichas con información reservada que se había tomado desde el hospital.
   * **Estrategia**: No tener papeles con informacion confidencial a la vista y acceso de todo el mundo, tratar de llevar un control de quien accede a los datos en todo momento y de que esos datos no puedan salir del entorno laboral protegido
-  * **Solución**: Gestionar los datos mediante algún sistema de información que pueda establecer un control de acceso para saber que personas acceden a los datos en cada momento.
 
 **2014**
 
