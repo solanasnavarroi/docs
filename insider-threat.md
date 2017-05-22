@@ -100,6 +100,8 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Descripción**: Rich Malewicz, CISO de Livingston County, condujo una investigación para encontrar posibles amenazas internas, por ello instaló el software [ObserveIt](https://www.observeit.com/) que registraba todos los movimientos de un empleado y descubrió que uno de sus empleados estaba accediendo a zonas de la empresa a las cuales no estaba autorizado, cogiendo las contraseñas de sus compañeros de manera remota. 
   * **Estrategia**: La estrategia es la misma descrita en el caso para asegurar no tener el mismo problema.
   * **Solución**: El software [ObserveIt](https://www.observeit.com/).
+* [Morgan Stanley despide a un empleado que robó datos de 350.000 clientes](http://economia.elpais.com/economia/2015/01/05/actualidad/1420480399_157936.html). (Fuente: Jorge Aguarón)  
+
 
 **2015**
 
