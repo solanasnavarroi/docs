@@ -189,6 +189,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
 * **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
 * **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
+* **Target y SAP, Canada: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco )
 
 **2014**
 * **SAP, Oracle y TomorrowNow** : [Oracle, SAP settle long-running TomorrowNow lawsuit] (http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
@@ -197,8 +198,11 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **Oracle R12 and Siebel y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare] (https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 * **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
+* **Vodafone y Siebel CRM,UK: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco)
 
 **2016**
+* **Woolworths y SAP, Australia:[Anatomy of an IT disaster or how Woolies spent $200 million on SAP](http://www.afr.com/brand/chanticleer/anatomy-of-an-it-disaster-or-how-woolies-spent-200-million-on-sap-20160609-gpfowf), [Australia’s Woolworths stabilises IT systems after “worrisome time”](https://diginomica.com/2016/08/29/australias-woolworths-stabilises-it-systems-after-worrisome-time/) (Fuente: Marta Blanco)
 
 **2017**
 * **SAP y la cervecera [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja)
+* **Oriola y su ERP, Finlandia: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
