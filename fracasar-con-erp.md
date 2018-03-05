@@ -11,6 +11,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/Default.aspx)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
 
 **1993**
+
 * **SAP R/3 y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](http://intranet.hcly.se/admin/data/files/12/45175/247-%20Al-Mashari%20and%20Al-Mudimigh%202003-%20ERP.pdf) (Fuente: Eduardo Navarro)
 
 **1994**
@@ -23,7 +24,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
 * **SAP y FoxMeyer Drugs'** : [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
-
 
 **1997**
 
@@ -76,7 +76,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Algún ERP y alguna embotelladora americana:** [ERP implementation failure: a case study](http://docplayer.net/6768854-Erp-implementation-failure-a-case-study.html) (Fuente: Sandra Campos, actualizada por Beatriz Pérez)
 * **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB):** [The National Australia Bank and Corporate Culture](http://api.ning.com/files/ZkPg*VLW4CwSJNzE-y60auTqsjdkasKuzd8yPdwhLfgUTHDaf9bGaiQgRc*s9G*VMgYEXmR3iFeVEM2KXrEfAxuNp5JZIugg/JonesNABCorporateCulture105.pdf) (Fuente: Edgar Arnal)
 * **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](http://iceb.nccu.edu.tw/proceedings/2002/PDF/f119.pdf) (Fuente: Alejandro Guiu)
-* **EDS y [British Sky Broadcasting](https://corporate.sky.com/):** [Sky's CRM plans were too vague to blame us, says EDS](http://www.computerworlduk.com/news/it-management/skys-crm-plans-were-too-vague-to-blame-us-says-eds-5867/) (Fuente: Catalin Dumitrache) y  [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
+* **EDS y [British Sky Broadcasting](https://corporate.sky.com/):** [Sky's CRM plans were too vague to blame us, says EDS](http://www.computerworlduk.com/news/it-management/skys-crm-plans-were-too-vague-to-blame-us-says-eds-5867/) (Fuente: Catalin Dumitrache) y [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
 
 **2003**
 
@@ -155,6 +155,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAIC y la ciudad de [Nueva York](http://www1.nyc.gov/)** : ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé) [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean) 
 * **Unisys y el estado de [Idaho](http://www.idaho.gov/)** : [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
 * **IBM y Queensland Health** : [Shared Services Initiative – LATTICE replacement](http://calleam.com/WTPF/?p=3105) (Fuente: Iván Esteban)
+
 **2011**
 
 * **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** : [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
@@ -190,19 +191,24 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
 * **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
 * **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
-
+* **Target y SAP (Canada)**: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 
 **2014**
+
 * **SAP, Oracle y TomorrowNow** : [Oracle, SAP settle long-running TomorrowNow lawsuit] (http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
 
 **2015**
 
 * **Oracle R12 and Siebel y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare] (https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 * **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
+* **Vodafone y Siebel CRM (UK)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco)
 
 **2016**
 
 * **ERP desconocido y PG&E** : [Pacific Gas and Electric Database Exposed] (https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
+* **Woolworths y SA (Australia)**:[Anatomy of an IT disaster or how Woolies spent $200 million on SAP](http://www.afr.com/brand/chanticleer/anatomy-of-an-it-disaster-or-how-woolies-spent-200-million-on-sap-20160609-gpfowf), [Australia’s Woolworths stabilises IT systems after “worrisome time”](https://diginomica.com/2016/08/29/australias-woolworths-stabilises-it-systems-after-worrisome-time/) (Fuente: Marta Blanco)
 
 **2017**
+
 * **SAP y la cervecera [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja)
+* **Oriola y su ER (Finlandia)**: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
