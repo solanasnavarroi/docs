@@ -182,6 +182,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)** : [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
 * **SAP y National Grid (EE.UU)** : [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
 * **SAP y NPower (UK)** : [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
+* **PeopleSoft ERP, Ciber y HTC** : [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
 
 **2013**
 
@@ -204,6 +205,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **2016**
 
+* **ERP desconocido y PG&E** : [Pacific Gas and Electric Database Exposed] (https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
 * **Woolworths y SA (Australia)**:[Anatomy of an IT disaster or how Woolies spent $200 million on SAP](http://www.afr.com/brand/chanticleer/anatomy-of-an-it-disaster-or-how-woolies-spent-200-million-on-sap-20160609-gpfowf), [Australia’s Woolworths stabilises IT systems after “worrisome time”](https://diginomica.com/2016/08/29/australias-woolworths-stabilises-it-systems-after-worrisome-time/) (Fuente: Marta Blanco)
 
 **2017**
