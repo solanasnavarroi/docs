@@ -29,11 +29,11 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **PeopleSoft y Cleveland State University:** [CSU and PeopleSoft settle for $4.25 mil](https://www.csuohio.edu/class/com/clevelandstater/Archives/Vol%206/Issue%2014/news/news1.html) (Fuente: Manuel Herrero)
 * **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
-* **A new order-entry system from The Baan C y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Miguel Bolsa)
+* **BAAN y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
 
 **1998**
 
-* **BAAM y AML (Egipto) :** [ERP Customization Failure: ](https://core.ac.uk/download/files/14/334101.pdf) (Fuente: Alejandro Solanas)
+* **BAAN y AML (Egipto) :** [ERP Customization Failure: ](https://core.ac.uk/download/files/14/334101.pdf) (Fuente: Alejandro Solanas)
 * **Oracle y [ABC Corporation](http://www.abcgroupindia.com/) (India)** [Case Study - Learning from failure](http://shodhganga.inflibnet.ac.in/bitstream/10603/9902/9/09_chapter%204.pdf) (Fuente: Andrés Julián)
 * **SAP y ElectricCo (nombre ficticio, China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 * **SAP y FurnitureCo (nombre ficticio, China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
@@ -111,7 +111,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Portland City (Oregon)** : [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
 * **Shane Company: Lessons Learned From an ERP Implementation Failure** :http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/ (Fuente: Andrés Soldevilla)
 * **Infor Global Solutions y (Western Textile Company)** : [Enterprise Software Companies are Human Too](http://www.erp.com/component/content/article/337-articles-a-news/erp-software/9372-enterprise-software-companies-are-human-too--part-four.html) ( Fuente: Adrián Crespo ).
-* **SAP y [VODAFONE](http://www.vodafone.com/content/index.html)**:[Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Miguel Bolsa)
 
 **2007**
 
@@ -143,7 +142,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [Shane Co](http://www.shaneco.com/)** : [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=awweg53wmmJw) (Fuente: Daniel Uroz)
 * **INFOR y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)** : [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
 
-
 **2010**
 
 * **JDA i2 y Dillard’s Inc:** [Dillard’s wins $246 million in damages vs. JDA, i2](http://www.reuters.com/article/jdasoftware-idUSSGE65F0GF20100616) (Fuente: Guillermo Azón)
@@ -158,6 +156,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAIC y la ciudad de [Nueva York](http://www1.nyc.gov/)** : ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé) [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean) 
 * **Unisys y el estado de [Idaho](http://www.idaho.gov/)** : [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
 * **IBM y Queensland Health** : [Shared Services Initiative – LATTICE replacement](http://calleam.com/WTPF/?p=3105) (Fuente: Iván Esteban)
+
 **2011**
 
 * **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** : [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
@@ -200,7 +199,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **Oracle R12 and Siebel y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare] (https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 * **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
-* **SAP y [Woolworth](https://www.woolworths.com.au/)**:[Australia’s Woolworths stabilises IT systems after “worrisome time”](https://diginomica.com/2016/08/29/australias-woolworths-stabilises-it-systems-after-worrisome-time/) (Fuente: Miguel Bolsa)
 
 **2016**
 
