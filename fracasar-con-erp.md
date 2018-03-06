@@ -27,7 +27,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1997**
 
-* **PeopleSoft y Cleveland State University:** [CSU and PeopleSoft settle for $4.25 mil](https://www.csuohio.edu/class/com/clevelandstater/Archives/Vol%206/Issue%2014/news/news1.html) (Fuente: Manuel Herrero)
+* **PeopleSoft y Cleveland State University:** [University hits PeopleSoft with $510M lawsuit](https://www.computerworld.com/article/2564202/technology-law-regulation/university-hits-peoplesoft-with--510m-lawsuit.html) (Fuente: Manuel Herrero, Actualizado por: David Sáez)
 * **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
 * **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
 
@@ -85,6 +85,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
+* **SAP y [Goodyear](https://www.goodyear.eu/es_es/consumer.html#/)**: [Goodyear Hits $100M Bump With ERP System](https://www.computerworld.com/article/2573849/enterprise-resource-planning/goodyear-hits--100m-bump-with-erp-system.html) (Fuente: David Sáez)
 
 **2004**
 
@@ -184,6 +185,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y National Grid (EE.UU)** : [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
 * **SAP y NPower (UK)** : [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 * **PeopleSoft, Ciber y HTC** : [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
+* **Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
+* **ERP desconocido y empresa gubernamental de EEUU** : [Lessons learned from a government ERP failure](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/PANCONUS/P121121L.pdf) (Fuente: David Sáez)
 
 **2013**
 
