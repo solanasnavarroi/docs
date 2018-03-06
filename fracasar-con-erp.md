@@ -9,9 +9,12 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 **1992**  
 
 * **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/Default.aspx)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+* **Confirm y [AMR Corp.](http://www.amrcaseinfo.com/), [Budget Rent A Car Corp.](https://www.budget.com/en/home), [Hilton Hotels Corp.](http://www3.hilton.com/en/index.html?ignoreGateway=true) and [Marriott International Inc.](http://www.marriott.com/default.mi)**: [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Miguel Bolsa)
 
 **1993**
 * **SAP R/3 y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](http://intranet.hcly.se/admin/data/files/12/45175/247-%20Al-Mashari%20and%20Al-Mudimigh%202003-%20ERP.pdf) (Fuente: Eduardo Navarro)
+
+* **Trips y [Greyhound Lines](https://www.greyhound.com/)**: [Effects of information technology failures on the market value of firms](https://www.academia.edu/7283294/Effects_of_information_technology_failures_on_the_market_value_of_firms?auto=download) (Miguel Bolsa)
 
 **1994**
 
