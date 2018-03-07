@@ -85,6 +85,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
+* **Big Bottler (nombre ficticio) y ERP X (nombre ficticio)**: [ERP Implementation Failure : A Case Study](http://eds.b.ebscohost.com.roble.unizar.es:9090/eds/pdfviewer/pdfviewer?vid=1&sid=4b9d7dc5-40cb-4392-8caa-d648e8a94820%40sessionmgr101) (Fuente: Hector Herrmann)
 
 **2004**
 
