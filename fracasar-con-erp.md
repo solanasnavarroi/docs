@@ -40,6 +40,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Water Corporation (nombre ficticio)** : [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 * **SAP y Grainger (EE.UU)** : [ERP woes cut Grainger profits](http://www.computerworld.com/article/2593478/erp-woes-cut-grainger-profits.html) (Fuente : Catalin Dumitrache)
 * **Oracle y Oxford Health Plans Inc (EE.UU)** : [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
+* **Movex y Beijing Dabao Cosmetics Co. (China)** : [2.3 CASE STUDY ON FAILED IMPLEMENTATION OF ERP SYSTEMS] (http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez Hernández)
 
 **1999**
 
@@ -94,6 +95,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso. 
 * **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
 * **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
+* **AT&T y su CRM**: [AT&T Wireless: Failed CRM upgrade cost $100 million in lost revenues] (https://it.toolbox.com/blogs/mrallen1/at-t-wireless-failed-crm-upgrade-cost-100-million-in-lost-revenues-041904) (https://www.cio.com/article/2439700/project-management/project-management--at-t-wireless-self-destructs.html) (Fuente: Jorge Blázquez Hernández)
 
 **2005**
 
@@ -193,6 +195,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
 * **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
 * **Target y SAP (Canada)**: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
+* **SAP y Sudáfrica** : [Learning From a Failed ERP implementation: The Case of a Large South African Organization] (https://www.researchgate.net/publication/269928636_Learning_From_a_Failed_ERP_implementation_The_Case_of_a_Large_South_African_Organization) (Fuente: Jorge Blázquez Hernández)
 
 **2014**
 
