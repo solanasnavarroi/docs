@@ -85,7 +85,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
-* **Big Bottler (nombre ficticio) y ERP X (nombre ficticio)**: [ERP Implementation Failure : A Case Study](http://eds.b.ebscohost.com.roble.unizar.es:9090/eds/pdfviewer/pdfviewer?vid=1&sid=4b9d7dc5-40cb-4392-8caa-d648e8a94820%40sessionmgr101) (Fuente: Hector Herrmann)
+* **ERP X (nombre ficticio) y Big Bottler (nombre ficticio)**: [ERP Implementation Failure : A Case Study](http://eds.b.ebscohost.com.roble.unizar.es:9090/eds/pdfviewer/pdfviewer?vid=1&sid=4b9d7dc5-40cb-4392-8caa-d648e8a94820%40sessionmgr101) (Fuente: Hector Herrmann)
 
 **2004**
 
@@ -214,3 +214,5 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **SAP y la cervecera [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja)
 * **Oriola y su ER (Finlandia)**: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
+
+* **SAP y Under Armour**: [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
