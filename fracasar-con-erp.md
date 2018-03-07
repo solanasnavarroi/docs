@@ -30,7 +30,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **PeopleSoft y Cleveland State University:** [CSU and PeopleSoft settle for $4.25 mil](https://www.csuohio.edu/class/com/clevelandstater/Archives/Vol%206/Issue%2014/news/news1.html) (Fuente: Manuel Herrero)
 * **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
 * **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
-* **SAP y AeroGroup/Aerosoles:** [AeroGroup abandona  AFS y R/3 ](http://www.academia.edu/15433352/Tarea_Caso_de_estudio_a_desarrollar_Aerogroup_International) (Fuente: Hector Herrmann)
 
 **1998**
 
@@ -41,6 +40,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Water Corporation (nombre ficticio)** : [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 * **SAP y Grainger (EE.UU)** : [ERP woes cut Grainger profits](http://www.computerworld.com/article/2593478/erp-woes-cut-grainger-profits.html) (Fuente : Catalin Dumitrache)
 * **Oracle y Oxford Health Plans Inc (EE.UU)** : [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
+* **SAP y AeroGroup/Aerosoles:** [AeroGroup abandona  AFS y R/3 ](http://www.academia.edu/15433352/Tarea_Caso_de_estudio_a_desarrollar_Aerogroup_International) (Fuente: Hector Herrmann)
 
 **1999**
 
