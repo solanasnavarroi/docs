@@ -94,6 +94,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso. 
 * **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
 * **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
+* **ERPs Occidentales y empresas Chinas**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 
 **2005**
 
