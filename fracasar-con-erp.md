@@ -133,6 +133,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **ERP ficticio y Bodegas Olaya (Colombia, empresa ficticia)**: [Hay vida después de un ERP?](https://www.icesi.edu.co/blogs/hayvidadespuesdeunerp/) (Fuente: Marta Frías) es un caso de implementación problemática de un ERP en una empresa colombiana grande.
 * **SAP/Oracle y TomorrowNow**: [No more Tomorrows for TomorrowNow](http://www.cio.com/article/2434837/enterprise-software/sap--oracle-software-support-from-tomorrownow-to-end.html) (Fuente: David Puente) no es un caso de fracaso de una implementación pero si un buen culebrón con varios implicados.
 * **SAP, Logo, Mincom, Qlink e Industrias Iranies** : [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
+* **SAP y la Ciudad de París** : [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 
 **2009**
 
