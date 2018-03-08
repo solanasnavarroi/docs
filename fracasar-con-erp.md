@@ -50,6 +50,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Baan y Poolrite (Australia)** : [Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
 * **MOVEX ERP y StoneCo (China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
 * **OneWorld y Evans Industries Inc.**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
+* **SAP y [Bang & Olufsen](https://www.bang-olufsen.com/es)** : [Bang & Olufsen complains of SAP implementation](https://www.computerworld.com.au/article/24734/bang_olufsen_complains_sap_implementation/) (Fuente: Celia Langa)
 
 **2000**
 
@@ -62,6 +63,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle y la Universidad de Cambridge (RU)** : [Cambridge may sue Oracle, KPMG for failed system](http://www.hks.harvard.edu/m-rcbg/ethiopia/Publications/Cambridge%20may%20sue%20Oracle,%20KPMG%20for%20failed%20system.pdf) (Fuente: Beatriz Franco) 
 * **Oracle y King County University (EE.UU.)** : [King County ready to restart ERP effort](http://www.computerworld.com/article/2557409/enterprise-resource-planning/king-county-ready-to-restart-erp-effort.html) (Fuente: Victor Beltrán)
 * **SAP y Nestlé** : [Nestlé's Enterprise Resource Planning (ERP) Odyssey](http://www.cio.com/article/2440821/enterprise-resource-planning/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Daniel Cabrera)
+* **SAP y [Volkswagen](https://www.volkswagen.es/es.html)** : [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
 
 **2001**
 
@@ -70,6 +72,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y el estado de [Arkansas](http://www.state.ar.us/)** : [SAP agrees to fix Arkansas ERP system, settles lawsuit charging that system is not accessible to blind state employees](http://www.computerworld.com/article/2532356/enterprise-applications/sap-agrees-to-fix-arkansas-erp-system.html) (Fuente: Eduardo Mindam). El problema se detectó en 2001 (incumplimiento de la norma de accesibilidad) y se resuelve en 2008 tras llegar un acuerdo para actualizar el sistema para soportar el acceso a personas ciegas (Fuente: Beatriz Franco).
 * **HPT(nombre ficticio) y Vicro Communications** : [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
 * **SAP y una empresa china** : [http://ajouronline.com/index.php/AJBM/article/view/1541] (Fuente:Andrés Soldevilla)
+* **SAP y [WHSmith](https://www.whsmith.co.uk/)** : [Supplier sues consultant over failed WHSmith SAP roll-out](http://www.computerweekly.com/news/2240042682/Supplier-sues-consultant-over-failed-WHSmith-SAP-roll-out) (Fuente: Celia Langa)
 
 **2002**
 
@@ -85,6 +88,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
+* **SAP y [Goodyear](https://www.goodyear.eu/es_es/consumer.html#)** : [Goodyear Hits $100M Bump With ERP System](https://www.computerworld.com/article/2573849/enterprise-resource-planning/goodyear-hits--100m-bump-with-erp-system.html) (Fuente: Celia Langa)
 
 **2004**
 
