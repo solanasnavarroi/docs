@@ -70,6 +70,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y el estado de [Arkansas](http://www.state.ar.us/)** : [SAP agrees to fix Arkansas ERP system, settles lawsuit charging that system is not accessible to blind state employees](http://www.computerworld.com/article/2532356/enterprise-applications/sap-agrees-to-fix-arkansas-erp-system.html) (Fuente: Eduardo Mindam). El problema se detectó en 2001 (incumplimiento de la norma de accesibilidad) y se resuelve en 2008 tras llegar un acuerdo para actualizar el sistema para soportar el acceso a personas ciegas (Fuente: Beatriz Franco).
 * **HPT(nombre ficticio) y Vicro Communications** : [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
 * **SAP y una empresa china** : [http://ajouronline.com/index.php/AJBM/article/view/1541] (Fuente:Andrés Soldevilla)
+* **SAP y General Motors Locomotive** : [GM forced to take emergency measures](http://www.computerweekly.com/news/2240044179/GM-forced-to-take-emergency-measures), más información: [Configuration problems force makeover of SAP system](https://www.computerworld.com/article/2586714/enterprise-resource-planning/gm-locomotive-unit-puts-erp-rollout-back-on-track.html)
 
 **2002**
 
@@ -85,6 +86,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
+* **ERP y una empresa de refrescos:**[ERP IMPLEMENTATIONFAILURE](http://ce.uoregon.edu/aim/PvsPU08/ERPImplementationFailureCase.pdf)
 
 **2004**
 
@@ -172,6 +174,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP e [Ingram Micro](http://www.ingrammicro.com/)** : [SAP project woes impact Ingram Micro's profits](http://www.pcworld.idg.com.au/article/384836/sap_project_woes_impact_ingram_micro_profits/) (Fuente: William Kokora)
 * **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 * **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)** : [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
+* **SAP y The Oil and Gas Sector (Turkey)** : [Evidence from
+the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf)
 
 **2012**
 
