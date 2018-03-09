@@ -111,6 +111,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Portland City (Oregon)** : [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
 * **Shane Company: Lessons Learned From an ERP Implementation Failure** :http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/ (Fuente: Andrés Soldevilla)
 * **Infor y Western Textile Company** : [Enterprise Software Companies are Human Too](http://www.erp.com/component/content/article/337-articles-a-news/erp-software/9372-enterprise-software-companies-are-human-too--part-four.html) ( Fuente: Adrián Crespo ).
+* **Infor y Scientific Components** : [ERP train wrecks, failures and lawsuits](https://www.enterpriseirregulars.com/31515/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony) Mención breve del caso en una tabla de fracasos.
 
 **2007**
 
@@ -172,6 +173,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP e [Ingram Micro](http://www.ingrammicro.com/)** : [SAP project woes impact Ingram Micro's profits](http://www.pcworld.idg.com.au/article/384836/sap_project_woes_impact_ingram_micro_profits/) (Fuente: William Kokora)
 * **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 * **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)** : [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
+* **Distintos ERPs en Pakistan** : [The factors causing failure of foreign enterprises resource planning (ERP) systems in Pakistan](http://www.academicjournals.org/journal/AJBM/article-abstract/373A69B20929) (Fuente: Oscar Potrony)
+* **Casos con ERPs en Arabia Saudí** : [CRITICAL SUCCESS AND FAILURE FACTORS OF ERP IMPLEMENTATIONS: TWO CASES FROM KINGDOM OF SAUDI ARABIA.](http://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=19928645&AN=65463573&h=40DS1LkRTjN60G1HdAVtI3%2fZ28AlUWX2e6VPNZeUM3cdcAYNZfoSYE3nbES570UpWXSIoyqLV2oOOdCeUXrGqA%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d19928645%26AN%3d65463573) (Fuente: Oscar Potrony)
 
 **2012**
 
@@ -184,6 +187,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y National Grid (EE.UU)** : [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
 * **SAP y NPower (UK)** : [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 * **PeopleSoft, Ciber y HTC** : [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
+* **ERP desconocida y RBS (Royal Bank of Scoltand)** : [RBS Bank joins the IT failures ‘Hall of Shame’](https://www.enterpriseirregulars.com/50387/rbs-bank-joins-it-failures-hall-shame/) (Fuente: Oscar Potrony)
 
 **2013**
 
