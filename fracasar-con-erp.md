@@ -71,6 +71,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle y King County University (EE.UU.)** : [King County ready to restart ERP effort](http://www.computerworld.com/article/2557409/enterprise-resource-planning/king-county-ready-to-restart-erp-effort.html) (Fuente: Victor Beltrán)
 * **SAP y Nestlé** : [Nestlé's Enterprise Resource Planning (ERP) Odyssey](http://www.cio.com/article/2440821/enterprise-resource-planning/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Daniel Cabrera)
 * **SAP y [Volkswagen](https://www.volkswagen.es/es.html)** : [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
+* **SAP y [Sobeys](https://www.sobeys.com/en/)** : [Canadian supermarket chain abandons SAP's retail software](https://www.computerworld.com/article/2590137/enterprise-applications/canadian-supermarket-chain-abandons-sap-s-retail-software.html) (Fuente: Celia Langa)
 
 **2001**
 
