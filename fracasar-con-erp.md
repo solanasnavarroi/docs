@@ -9,10 +9,13 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 **1992**  
 
 * **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/Default.aspx)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+* **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](http://www3.hilton.com/en/index.html)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**: [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Fuente: Miguel Bolsa)
 
 **1993**
 
 * **SAP y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](http://intranet.hcly.se/admin/data/files/12/45175/247-%20Al-Mashari%20and%20Al-Mudimigh%202003-%20ERP.pdf) (Fuente: Eduardo Navarro)
+
+* **Empresa consultora y [Greyhound Lines](https://www.greyhound.com/)**: [Greyhound Seeks Salvation in a Strategic Reservation System](https://fenix.tecnico.ulisboa.pt/downloadFile/3779571477675/Caso-Final-Greyhound) (Fuente: Miguel Bolsa)
 
 **1994**
 
@@ -27,7 +30,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1997**
 
-* **PeopleSoft y Cleveland State University:** [CSU and PeopleSoft settle for $4.25 mil](https://www.csuohio.edu/class/com/clevelandstater/Archives/Vol%206/Issue%2014/news/news1.html) (Fuente: Manuel Herrero)
+* **PeopleSoft y Cleveland State University:** [University hits PeopleSoft with $510M lawsuit](https://www.computerworld.com/article/2564202/technology-law-regulation/university-hits-peoplesoft-with--510m-lawsuit.html) (Fuente: Manuel Herrero, Actualizado por: David Sáez)
 * **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
 * **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
 
@@ -40,6 +43,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Water Corporation (nombre ficticio)** : [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 * **SAP y Grainger (EE.UU)** : [ERP woes cut Grainger profits](http://www.computerworld.com/article/2593478/erp-woes-cut-grainger-profits.html) (Fuente : Catalin Dumitrache)
 * **Oracle y Oxford Health Plans Inc (EE.UU)** : [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
+* **SAP y Unisource Worldwide Inc. (EE.UU)** : [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 * **Movex y Beijing Dabao Cosmetics Co. (China)** : [Case study on failed implementation of ERP systems] (http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez Hernández)
 
 **1999**
@@ -51,6 +55,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Baan y Poolrite (Australia)** : [Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
 * **MOVEX ERP y StoneCo (China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
 * **OneWorld y Evans Industries Inc.**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
+* **SAP y Allied Waste Industries Inc. (EE.UU)** : [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
+* **ERP desconocido y Mobile One** : Mención en  [The Enterprise Resource Planning Decade: Lessons Learned and Issues for the future](https://books.google.es/books?id=XHTt1mYJYPgC&pg=PA140&lpg=PA140&dq=Allied+Waste+Industries+erp+failure&source=bl&ots=BXqitsy8M1&sig=kwFuYxTBi0c4B6hxkNsQb7Min1U&hl=es&sa=X&ved=0ahUKEwj-_6O09NjZAhWLvxQKHbolCXMQ6AEINTAC#v=onepage&q=Allied%20Waste%20Industries%20erp%20failure&f=false) (Fuente: Héctor Martínez Moreno)
 
 **2000**
 
@@ -86,6 +92,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
+* **SAP y [Goodyear](https://www.goodyear.eu/es_es/consumer.html#/)**: [Goodyear Hits $100M Bump With ERP System](https://www.computerworld.com/article/2573849/enterprise-resource-planning/goodyear-hits--100m-bump-with-erp-system.html) (Fuente: David Sáez)
 
 **2004**
 
@@ -95,7 +102,11 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso. 
 * **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
 * **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
-* **AT&T y su CRM**: [AT&T Wireless: Failed CRM upgrade cost $100 million in lost revenues] (https://it.toolbox.com/blogs/mrallen1/at-t-wireless-failed-crm-upgrade-cost-100-million-in-lost-revenues-041904) (https://www.cio.com/article/2439700/project-management/project-management--at-t-wireless-self-destructs.html) (Fuente: Jorge Blázquez Hernández)
+* **AT&T y su CRM**: [AT&T Wireless: Failed CRM upgrade cost $100 million in lost revenues] (https://it.toolbox.com/blogs/mrallen1/at-t-wireless-failed-crm-upgrade-cost-100-million-in-lost-revenues-041904), [Project Management: AT&T Wireless Self-Destructs](https://www.cio.com/article/2439700/project-management/project-management--at-t-wireless-self-destructs.html) (Fuente: Jorge Blázquez Hernández)
+* **ERP no identificado (tier 1, desarrollado fuera de China) y B (nombre ficticio, farmaceutica, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
+* **ERP no identificado (tier 2 o 3, desarrollado fuera de China) y C (nombre ficticio, equipos eléctricos, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
+* **ERP no identificado (tier 1, desarrollado fuera de China) y D (nombre ficticio, material oficina, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
+* **ERP no identificado (tier 1, desarrollado fuera de China) y E (nombre ficticio, empresa minera, China**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 
 **2005**
 
@@ -141,7 +152,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Epicor y Ferrazzoli (EE.UU.):** [Ferazzoli Imports of New England Inc v. Epicor Software Corp](https://dockets.justia.com/docket/connecticut/ctdce/3:2009cv00668/85226/) (Fuente: Álvaro Juen)
 * **IBM y el estado de Pennsylvania** : [Pennsylvania Kills An IBM Contract That's 3 Years Late And $60 Million Over Budget](http://www.businessinsider.com/pennsylvania-kills-ibm-project-2013-8) (Fuente: Pablo Lanaspa)
 * **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)** : [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)
-* **SAP y [Shane Co](http://www.shaneco.com/)** : [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=awweg53wmmJw) (Fuente: Daniel Uroz)
+* **SAP y [Shane Co](http://www.shaneco.com/)** : [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](https://www.computerworld.com/article/2530405/it-careers/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Iván Escuín)
 * **Infor y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)** : [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
 
 **2010**
@@ -186,6 +197,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y National Grid (EE.UU)** : [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
 * **SAP y NPower (UK)** : [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 * **PeopleSoft, Ciber y HTC** : [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
+* **Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
+* **ERP desconocido y empresa gubernamental de EEUU** : [Lessons learned from a government ERP failure](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/PANCONUS/P121121L.pdf) (Fuente: David Sáez)
 
 **2013**
 
