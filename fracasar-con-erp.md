@@ -94,6 +94,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso. 
 * **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
 * **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
+* **Oracle y Saudi Telecom (Arabia Saudí)** : [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
 **2005**
 
@@ -173,8 +174,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP e [Ingram Micro](http://www.ingrammicro.com/)** : [SAP project woes impact Ingram Micro's profits](http://www.pcworld.idg.com.au/article/384836/sap_project_woes_impact_ingram_micro_profits/) (Fuente: William Kokora)
 * **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 * **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)** : [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
-* **Distintos ERPs en Pakistan** : [The factors causing failure of foreign enterprises resource planning (ERP) systems in Pakistan](http://www.academicjournals.org/journal/AJBM/article-abstract/373A69B20929) (Fuente: Oscar Potrony)
-* **Casos con ERPs en Arabia Saudí** : [CRITICAL SUCCESS AND FAILURE FACTORS OF ERP IMPLEMENTATIONS: TWO CASES FROM KINGDOM OF SAUDI ARABIA.](http://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=19928645&AN=65463573&h=40DS1LkRTjN60G1HdAVtI3%2fZ28AlUWX2e6VPNZeUM3cdcAYNZfoSYE3nbES570UpWXSIoyqLV2oOOdCeUXrGqA%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d19928645%26AN%3d65463573) (Fuente: Oscar Potrony)
 
 **2012**
 
