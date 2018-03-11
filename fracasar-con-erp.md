@@ -80,6 +80,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **HPT(nombre ficticio) y Vicro Communications** : [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
 * **SAP y una empresa china** : [http://ajouronline.com/index.php/AJBM/article/view/1541] (Fuente:Andrés Soldevilla)
 * **SAP y [WHSmith](https://www.whsmith.co.uk/)** : [Supplier sues consultant over failed WHSmith SAP roll-out](http://www.computerweekly.com/news/2240042682/Supplier-sues-consultant-over-failed-WHSmith-SAP-roll-out) (Fuente: Celia Langa)
+* **SAP y [Sobeys](https://www.sobeys.com/en/)** : [Canadian supermarket chain abandons SAP's retail software](https://www.computerworld.com/article/2590137/enterprise-applications/canadian-supermarket-chain-abandons-sap-s-retail-software.html) (Fuente: Celia Langa)
 
 **2002**
 
