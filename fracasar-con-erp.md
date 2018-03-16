@@ -199,7 +199,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 * **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)** : [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 * **SAP y empresa del sector petrolífero (Turkey)** : [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano).
-* **SAP  y [Nova Scotia Nurses Union](https://www.nsnu.ca/en/home/default.aspx):** [SAP-IBM payroll system woes fouled up nurses' pay](https://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Adrián Ibáñez)
 
 **2012**
 
@@ -230,7 +229,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **SAP, Oracle y TomorrowNow**: [Oracle, SAP settle long-running TomorrowNow lawsuit](http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
 * **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
-* **SAP  y [Dow Chemical Co.](https://www.dow.com/en-us):** [Dow Chemical CIO Looks for Productivity from $1Billion IT Overhaul](https://blogs.wsj.com/cio/2014/12/15/dow-chemical-cio-looks-for-productivity-from-1billion-it-refresh/) (Fuente: Adrián Ibáñez)
 
 **2015**
 
