@@ -114,6 +114,12 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: En este caso, la mejor solución habría sido que el sistema de permisos para acceder a los datos confidenciales de Mercedes hubieran funcionado de forma adecuada, para evitar que haya accesos a datos sensibles por parte de personas no deseadas. Además otra solución podría ser la encriptación de los ficheros en sus servidores, de tal forma que los ficheros accedidos por Hoyle hubieran sido inservibles para Ferrari.
 * [CDOT employee stole contractors' personal information](http://www.9news.com/news/cdot-employee-stole-contractors-personal-information/175000302) (Fuente: Santiago Morón)
 
+* [Profile in Espionage – Curtailing a Satellite Spy with an Insider Threat Program](https://news.clearancejobs.com/2016/07/18/when-is-espionage-espionage/)
+* **Fuente**: Alberto Mur
+* **Descripción**: El ingeniero Gregory Allen Justice, ex-trabajador de un contratista para departamento de defensa de EEUU, fue encarcelado en 2017 por copiar en varios dispositivos USB varios GB de información relacionada con satélites y sistemas GPS con el objetivo de vender dicha información a Rusia, violando no solo diversas políticas de la empresa, sino también varias leyes del gobierno. Según el detenido, necesitaba el dinero por motivos médicos de su pareja, aunque otras fuentes afirman también que fue por resentimiento después de llevar desde el año 2000 sin recibir un aumento, así como por tener una amante.
+* **Estrategia**: En vez de simplemente comprobar que se está copiando información a un dispositivo externo con el programa de prevención de datos (DLP), se debería comprobar qué tipo de información se está copiando, y el volumen de la misma.
+* **Solución**: Además de la básica acción de restringir mejor los accesos a según qué información, habría sido útil que la información que Gregory intentó vender a Rusia estuviera encriptada (por ejemplo) por su superior directo, de esta forma, aunque Gregory hubiera tenido permiso para acceder a la información copiada y hubiera podido desencriptarla parcialmente, habría seguido siendo necesario la confirmación de su jefe para poder usarla por completo.
+
 **2017**
 
 * [Lawsuit filled in Flowers Hospital identity theft](http://www.dothaneagle.com/news/crime_court/lawsuit-against-flowers-hospital-over-theft-of-personal-information-attains/article_f89c75f0-0da9-11e7-823c-ef3a46dcb4a3.html)
