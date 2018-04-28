@@ -144,6 +144,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Ex-Dresdner Banker’s Deals Were Key Thread to FSA Case](http://www.bloomberg.com/news/2011-02-02/ex-dresdner-kleinwort-banker-s-deals-were-key-to-fsa-insider-trading-case.html) (Fuente: Alejandro Hernández)
 
+**2013**
+
+* [Target to pay $18.5M for 2013 data breach that affected 41 million consumers](https://www.usatoday.com/story/money/2017/05/23/target-pay-185m-2013-data-breach-affected-consumers/102063932/)
+* **Fuente**: Miguel Bolsa
+* **Descripción**: En noviembre de 2013, los atacantes, utilizando las credenciales de un proveedor externo, obtuvieron acceso a una base de datos de servicios de clientes. Instalaron malware y obtuvieron y los nombres completos, números de teléfono, direcciones de correo electrónico, números de tarjetas de pago, códigos de verificación de tarjetas de crédito y otros datos. Afectaron a más de 60 millones de clientes.
+* **Estrategia**: Cuando se accede a los datos confidenciales de forma remota, ya sea por terceros o por nuestros propios empleados, debemos asegurarnos de que se transfieran datos, sólo cuando estén cifrados, teniendo todas las sesiones remotas completamente supervisadas.
+* **Solución**: Se podría cifrar los datos sensibles de la base de datos utilizando el HRMS [PeopleSoft](https://docs.oracle.com/cd/E66686_01/pt855pbr1/eng/pt/tsec/concept_UnderstandingPeopleSoftEncryptionTechnology-c07784.html)
+
 **2015**
 
 * [Elliott Greenleaf, Stevens & Lee Settle Hacking Suit](http://www.law360.com/articles/370760/elliott-greenleaf-stevens-lee-settle-hacking-suit) (Fuente: Rubén Gabás)
