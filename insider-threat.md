@@ -114,6 +114,15 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: En este caso, la mejor solución habría sido que el sistema de permisos para acceder a los datos confidenciales de Mercedes hubieran funcionado de forma adecuada, para evitar que haya accesos a datos sensibles por parte de personas no deseadas. Además otra solución podría ser la encriptación de los ficheros en sus servidores, de tal forma que los ficheros accedidos por Hoyle hubieran sido inservibles para Ferrari.
 * [CDOT employee stole contractors' personal information](http://www.9news.com/news/cdot-employee-stole-contractors-personal-information/175000302) (Fuente: Santiago Morón)
 
+**2016**
+
+* [Sage employee arrested over data breach](https://www.ft.com/content/a83565c8-649d-11e6-8310-ecf0bddad227)
+  * **Fuente**: Marta Blanco Jaime
+  * **Descripcion**: Una empleada de la compañía Sage accedió sin autorización a información privada de clientes, entre 200 y 300 empresas y robó datos sensibles como sueldos y cuentas bancarias. Por suerte, fue detenida en el aeropuerto. Aun así, tras informar Sage a las empresas afectadas, sus acciones cayeron un 4% (aunque se recuperó rápidamente)
+  * **Estrategia**: Limitar el acceso a los usuarios, pudiendo acceder únicamente a lo necesario para su trabajo.
+  * **Solucion**: Irónicamente, Sage tiene tutoriales de cómo gestionar los permisos en sus distintas aplicaciones. Bastaría con que aplicara esos pasos internamente (http://soporte.sage.es/etiquetas/permisos/) y revisase periódicamente la actividad de los empleados con acceso a datos sensibles.
+
+
 **2017**
 
 * [Lawsuit filled in Flowers Hospital identity theft](http://www.dothaneagle.com/news/crime_court/lawsuit-against-flowers-hospital-over-theft-of-personal-information-attains/article_f89c75f0-0da9-11e7-823c-ef3a46dcb4a3.html)
