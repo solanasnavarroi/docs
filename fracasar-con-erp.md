@@ -229,6 +229,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **SAP, Oracle y TomorrowNow**: [Oracle, SAP settle long-running TomorrowNow lawsuit](http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
 * **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
+* **Ω failed to customize SAP R3**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
 
 **2015**
 
