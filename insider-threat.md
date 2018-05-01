@@ -147,6 +147,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [How cyber criminals targeted almost $1bn in Bangladesh Bank heist](http://www.ft.com/intl/cms/s/0/39ec1e84-ec45-11e5-bb79-2303682345c8.html#axzz48uI41YCQ) (Fuente: Catalin Constantin Dumitrache)
 
+* [Un empleado de los parquímetros de Madrid roba 45.000€ con un truco informático](https://www.elconfidencial.com/espana/madrid/2016-05-12/el-dioni-parquimetros-madrid-robo-45-000-euros_1197982/)
+  * **Fuente**: Héctor Martínez Moreno
+  * **Descripción**: Un empleado de la empresa de parquímetros de Madrid, que se dedicaba a la recaudación de los mismos, sustituye la placa original por una placa pirata durante cortos periodos de tiempo, para que la recaudación realizada no quede registrada. Dejando un único rastro, que mostraba cómo la placa original dejaba de estar sincronizada, pero esta pequeña incidencia la solucionaba el propio técnico.
+  * **Estrategia**: A nivel informático, con un sistema de permisos basado en roles, que no hubiera permitido cambiar al empleado los desajustes originados en los parquímetros, habría permitido a la empresa observar estas irregularidades y detectar el fraude.
+  * **Solución**: Como solución como se ha indicado en la estrategia, habría sido el uso de sistemas de permisos de acceso basados en roles (RBAC). Este sistema se puede aplicar directamente sobre la BBDD, el ERP o el acceso a aplicaciones utilizado en la empresa.
+
+
 ## Desleales
 
 **2008**
