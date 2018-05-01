@@ -202,6 +202,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Stolen DATA laptop had unencrypted employee data](http://www.darkreading.com/attacks-and-breaches/stolen-nasa-laptop-had-unencrypted-employee-data/d/d-id/1107402) (Fuente: Marta Almudena Frías)
 
+**2015**
+* [Australia reveló accidentalmente datos personales de los líderes del G20](https://www.20minutos.es/noticia/2420251/0/australia-revelo-accidentalmente/datos-personales/lideres-g20/)
+  * **Fuente**: Oscar Potrony Compaired
+  * **Descripción**: El ministerio de Inmigración de Australia divulgó accidentalmente datos personales (número de pasaporte, datos de los visados, etc.) de todos los líderes del G20 a los organizadores de la Copa Asiática de fútbol. Esto fue debido a un error humano: se cree que un funcionario utilizó una función de autocompletado para el destinatario de un e-mail que contenía dichos datos, enviándolo al destinatario incorrecto.
+  * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
+  * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
+
 ## Saboteadores
 
 **2005**
