@@ -84,6 +84,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: En primer lugar retención del talento, con una adecuada politica de RRHH podría haberse evitado la situación inicial en la que el trabajador se quiere ir. Un empleado que se encuentra satisfecho y valorado, y se identifica con los valores de la empresa, es más difícil que quiera marcharse, o por lo menos que se marche causando problemas. En segundo lugar una política de concienciación sobre la importancia de la confidencialidad de los datos y las consecuencias que tiene la exposición de los mismos. Y por último establecer una politica AAA (Authentication, Authorization and Accounting) controlando quién intenta acceder a datos confidenciales, dando acceso a los mismos solo a las personas necesarias, y auditando todos los accesos que se producen.
   * **Solución**: Ejemplo de *software* compatible con la estrategia descrita: el [Oracle HCM](http://www.exentahrms.com/help-desk/) que tiene modulos adecuados para las 3 estrategias. El [módulo de gestión del talento](https://cloud.oracle.com/es_ES/talent-management-cloud), la [politica de comunicaciones](http://www.oraclehrms.com/oracle-advanced-benefits/communications), y para la política AAA el [módulo Identity Management de Oracle](https://www.oracle.com/middleware/identity-management/index.html).
 
+**2011**
+
+* [Insider data theft costs Bank of America $10 million](https://www.computerworld.com/article/2508552/security0/insider-data-theft-costs-bank-of-america--10-million.html).
+  * **Fuente**: Celia Langa Hernández
+  * **Descripción**: Un empleado del Bank of America filtró información personal de los clientes como nombres, direcciones, números de seguridad social, números de cuentas bancarias y saldos de cuentas a un grupo de estafadores. Esto afectó a unos 300 clientes y causó al banco unas pérdidas de $10M.
+  * **Estrategia**: Determinar el comportamiento de los empleados mediante el monitoreo del acceso a la información personal de los clientes. Así, controlando el número de accesos que se realizan a la información se puede averiguar si está pasando algo.
+  * **Solución**: El software [Veriato Recon](https://www.veriato.com/products/veriato-recon).
+
 **2013**
 
 * [Woodland Heights Medical Center Employee Stole 450 Patient Records](http://www.ktre.com/story/30704770/woodland-heights-employee-investigated-for-stealing-450-patients-info)
