@@ -279,6 +279,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 ## Vengativos
 
+**1996**
+* [Tim Lloyd elimina todos los programas de diseño y producción de Omega](http://edition.cnn.com/2000/TECH/computing/06/27/omega.files.idg/)
+ * **Fuente**: Javier Plano Sanz
+ * **Descripción**: 
+Timothy Allen Lloyd era un administrador de sistemas de Omega Engineering, empresa proveedora de la NASA y la armada estadounidense. Tras su despido, escondió una "bomba" dentro de la red de ordenadores de Omega. Creó una cuenta "12345" con permisos de administrador y sin contraseña a la que se accedió mediante un script que se ejecutó en una fecha concreta, y con el que borró todos los programas de diseño y producción de Omega y su backup. Causando un daño de $ 10 millones a la compañía entre ventas y contratos.
+ * **Estrategia**: 
+Dada la posición de Lloyd en su trabajo, es difícil hablar de restricciones, puesto que necesita de esos permisos de administración para el correcto funcionamiento del sistema. Pero hay aspectos que si que podrían haberse restringido y que habrían evitado el desastre. El borrado de backups o la ejecución del comando PURGE deberían incluir una confirmación de los superiores. Además la realización de auditorías de código puede eliminar esas bombas lógicas y el malware oculto por los trabajadores deshonestos.
+
 **2011**
 
 * [Immigration Officer Puts Wife on the No-Fly List](http://www.loweringthebar.net/2011/02/immigration-officer-puts-wife-on-the-no-fly-list.html) (Fuente: William Kokora) 
