@@ -129,6 +129,12 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 **2016**
 
+* [After selling his site for millions, founder hacked it for a second payday](https://www.theregister.co.uk/2017/10/07/after_selling_site_for_millions_founder_hacked_it_for_a_second_payday/)
+  * **Fuente**: Jorge Blázquez
+  * **Descripción**: En 2010, David Kent creo una red social para una compañía petrolera: ringzone.com. En seguida, el grupo DHI se interesó y compró por 51 millones de $. Tras este triunfo, Kent decidió volver a crear otra igual, llamada oilpro.com, que en seguida tuvo fama (500 000 usuarios). DHI se volvió a interesar en comprarla por 20 millones de $, pero en vez de eso fue enviado a la cárcel. Debido a un SPAM recibido por un cliente de ringzone de oilpro, se destapo que Kent había robado información de usuarios de la empresa que había creado para incluirlos en la nueva.
+  * **Estrategia**: Hay que tener mucho cuidado cuando se compra una aplicación a terceros, ya que hay que mirar bien todas las posibles brechas de seguridad, ya que es algo que no has hecho tú. Y modificar el cifrado de los datos, ya que los antiguos creadores de esta pueden acceder a los datos.
+
+
 * [Sage employee arrested over data breach](https://www.ft.com/content/a83565c8-649d-11e6-8310-ecf0bddad227)
   * **Fuente**: Marta Blanco Jaime
   * **Descripcion**: Una empleada de la compañía Sage accedió sin autorización a información privada de clientes, entre 200 y 300 empresas y robó datos sensibles como sueldos y cuentas bancarias. Por suerte, fue detenida en el aeropuerto. Aun así, tras informar Sage a las empresas afectadas, sus acciones cayeron un 4% (aunque se recuperó rápidamente)
