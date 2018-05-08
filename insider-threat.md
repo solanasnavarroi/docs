@@ -99,6 +99,12 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Descripción**: Un guarda de Texas recientemente descubrió que un ex empleado de Woodland Heights Medical Center en Lufkin, TX, había estado robando los registros médicos de los pacientes mientras trabajaba en el hospital. Una búsqueda en la casa del empleado reveló aproximadamente 450 fichas con información reservada que se había tomado desde el hospital.
   * **Estrategia**: No tener papeles con informacion confidencial a la vista y acceso de todo el mundo, tratar de llevar un control de quien accede a los datos en todo momento y de que esos datos no puedan salir del entorno laboral protegido
 
+* [Vodafone Germany confirms insider data theft: Two million customers affected](https://www.zdnet.com/article/vodafone-germany-confirms-insider-data-theft-two-million-customers-affected/).
+  * **Fuente**: David Sáez García
+  * **Descripción**: Datos sobre clientes de Vodafone Alemania fueron robados por un trabajador de la compañia. Estos datos robados se corresponden a nombres, direcciones, fechas de nacimiento y datos bancarios. Afortunadamente, el atacante no pudo robar información mas comprometida, como números de tarjetas de crédito.
+  * **Estrategia**: Monitorizar en tiempo real las acciones realizadas por los empleados. De esta forma se pueden evitar casos como el descrito e intervenir antes de que el atacante haya podido almacenar información comprometida.
+ * **Solución**: [ActivTrak](https://activtrak.com/what-is-activtrak/), que es una herramienta que rastrear las actividades de un equipo de trabajo en tiempo real, notificando comportamientos sospechosos si estos existen. Además, se puede configurar para que genere reportes periódicamente.
+
 **2014**
 
 * [Ex-employee of Alipay among 3 suspected of stealing customer data since 2010](http://www.shanghaidaily.com/Business/it/Exemployee-of-Alipay-among-3-suspected-of-stealing-customer-data-since-2010/shdaily.shtml) (Fuente: Javier Tello)
