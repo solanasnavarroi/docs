@@ -62,6 +62,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Descripción**: Un estudiante de doctorado de la University of Maryland Baltimore County y antiguo "Navy officer", trabajando para la NSA como parte de un acuerdo entre las dos entidades es detenido por la extracción de ficheros altamente clasificados presuntamente con fines únicamente academicos, como dice su abogado: "There is no evidence that Hal Martin intended to betray his country."
   * **Estrategia**: La NSA tras el filtrado de datos de Snowden pusó en marcha un sistema de detección de "insider-threat", solución más obvia para el caso, sin embargo no se sabe si el sistema falló o el filtrado de datos ocurrió antes de su implantación. En cualquier caso, tratandose de una de las agencias de inteligencia más importantes del mundo una solución comercial no sea posiblemente lo suficientemente segura, por lo que implantar un sistema de detección de amenazas internas propio sería la estrategia más acertada.
   * **Solución**: A nivel de soluciones comerciales existen sistemas de monitorización de comportamientos extraños como [FortScale](https://fortscale.com/), [Alien Vault](https://www.alienvault.com/solutions/insider-threat-detection) o clouds con sistemas para prevenir filtrado de datos como [Avanan](https://www.avanan.com/data-leakage-prevention-cloud-security). AlienVault además soporta [integración con BambooHR a través de Bitium](https://www.bitium.com/alienvault-bamboo-hr-integration). Sin embargo, como se menciona antes, el desarrollo de un software propio para la detección de amenazas internas y para proteger de posibles filtraciones los datos sería posiblemente la única solución viable dado que además se desconoce el método con el que pudo llevarse los datos a su casa. ¿Pero quién soy yo para opinar sobre lo que tiene que hacer la mayor agencia de inteligencia del mundo?
+  
+**2017**
+* [Uber crea una empresa falsa para robar secretos, según Google](https://elchapuzasinformatico.com/2017/05/uber-creo-una-empresa-falsa-robar-secretos-segun-google/)
+* **Fuente**: Adrián Casans
+* **Descripción**: Uber creó una empresa falsa para llegar a conocer cómo funcionaban los coches autónomos de Google e información secreta de la empresa.
 
 ## Ladrones de datos
 
@@ -160,6 +165,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
    * **Descripción**: Jason Needham accedió durante dos años a los servidores de su antigua empresa debido a preservar el correo de un ex-compañero, pudiendo acceder a los planes de marketing, proyectos, estructuras contables y pudiendo ver las claves de acceso del sistema de intercambio de fichero, que se actualizaban regularmente pero se mandaban por correo. Durante los dos años, vió, copioó y descargo información valorada en 425000$.
    * **Estrategia**: Realizar una monitorización y logs del comportamiento de los usuarios en el sistema de intercambio de ficheros habría revelado las descargas realizadas por Jason Needham. Otra estrategia es no actualizar las credenciales por correo o ligar los equipos informáticos físicos al sistema de ficheros, evitando que se pueda acceder a este desde ordenadores externos.
   
+**2018**
+
+* [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
+  * **Fuente**: Adrián Ibáñez Lobato
+  * **Descripción**: El banco SunTrust envía un comunicado a 1.5 millones de clientes avisándoles de que sus datos personales han sido robados por un ex-empleado. Entre la información extraída se encuentran el nombre, la dirección, el número de teléfono y los saldos de las cuentas del cliente. No han sido robados los datos que corresponden a información de identificación personal, como serían el número de la seguridad social, número de cuenta, PIN, usuario, contraseña o información de la licencia de conducir.
+  * **Estrategia**: Monitorear los accesos a la información de los clientes ayudaría a detectar si un único empleado consulta un número exageradamente alto de estos. Por otro lado, es muy importante eliminar los permisos de acceso, especialmente los relacionados con datos sensibles, a los empleados que abandonan la empresa.
+  * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
 
 ## Ladrones de dinero
 
