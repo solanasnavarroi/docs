@@ -154,6 +154,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Descripcion**: Kamarian Millender fue detenido el 26 de Febrero acusado de traficar con identidades robadas. Al parecer, Millender, que trabajaba para el hospital en un laboratorio robó formularios con los datos de sus pacientes de forma sistemática entre Junio de 2013 y Febrero de 2014. Estas identidades, que incluían nombres, direcciones, numeros de seguridad social y hasta información médica, pudieron ser usadas para engañar a Hacienda.
   * **Estrategia**: No tener papeles con informacion delicada rondando por salas inseguras, informatizarlos y encriptarlos lo antes posible si es totalmente necesario recogerlos en papel, y posteriormente destruirlos.
   * **Solucion**: El uso de un ERP permite la creación de perfiles de cliente, y mas concretamente, empresas como [Arbentia](https://www.arbentia.com/software-erp-para-gestion-hospitalaria-y-salud-nav-crm/) ofrecen soluciones exclusivamente para Hospitales
+  
+**2018**
+
+* [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
+  * **Fuente**: Adrián Ibáñez Lobato
+  * **Descripción**: El banco SunTrust envía un comunicado a 1.5 millones de clientes avisándoles de que sus datos personales han sido robados por un ex-empleado. Entre la información extraída se encuentran el nombre, la dirección, el número de teléfono y los saldos de las cuentas del cliente. No han sido robados los datos que corresponden a información de identificación personal, como serían el número de la seguridad social, número de cuenta, PIN, usuario, contraseña o información de la licencia de conducir.
+  * **Estrategia**: Monitorear los accesos a la información de los clientes ayudaría a detectar si un único empleado consulta un número exageradamente alto de estos. Por otro lado, es muy importante eliminar los permisos de acceso, especialmente los relacionados con datos sensibles, a los empleados que abandonan la empresa.
+  * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
 
 ## Ladrones de dinero
 
