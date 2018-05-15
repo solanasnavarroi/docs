@@ -65,9 +65,8 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   
 **2017**
 * [Uber crea una empresa falsa para robar secretos, según Google](https://elchapuzasinformatico.com/2017/05/uber-creo-una-empresa-falsa-robar-secretos-segun-google/)
-* **Fuente**: Adrián Casans
-* **Descripción**: Uber creó una empresa falsa para llegar a conocer cómo funcionaban los coches autónomos de Google e información secreta de la empresa.
-
+  * **Fuente**: Adrián Casans
+  * **Descripción**: Uber creó una empresa falsa para llegar a conocer cómo funcionaban los coches autónomos de Google e información secreta de la empresa.
 * [Empleado de Chemours roba secretos comerciales para venderlos a inversores Chinos](https://www.justice.gov/usao-de/pr/former-chemours-employee-charged-conspiracy-steal-trade-secrets-connection-plan-sell)
   * **Fuente**: Gonzalo Torrecillas
   * **Descripción**: Un empleado de la empresa estadounidense Chemours, ayudado con un entonces ya exempleado, robó datos de la empresa sobre sus métodos de la fabricación de Cianuro de Sodio, compuesto químico del que Chemours es el mayor productor mundial, para vendérselos a inversores chinos, y que estos fueran capaces de crear fábricas competitivas de dicho compuesto, o de convertirse en competidores exportando a Norteamérica.
