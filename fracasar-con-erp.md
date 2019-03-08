@@ -50,7 +50,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 1999
 
-- **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](http://www.pemeco.com/wp-content/uploads/2013/09/Hershey_ERP_Case_Study.pdf) (Fuente: Andrés Julián)
+- **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](http://www.pemeco.com/wp-content/uploads/2013/09/Hershey_ERP_Case_Study.pdf) (Fuente: Andrés Julián) [Enlace modificado - A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.pemeco.com/a-case-study-on-hersheys-erp-implementation-failure-the-importance-of-testing-and-scheduling/) (Fuente: Miguel López)
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 - **SAP y Whirpool**: [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu)
 - **SAP y Dow Corning Corporation**  [Business Processes and Information Technology](http://dspace.mit.edu/bitstream/handle/1721.1/2652/SWP-3951-37733560-CISR-298.pdf), que explica por qué abandonan una inversión de 500 M$ en SAP R/2, [Transforming the Organization](http://dspace.mit.edu/bitstream/handle/1721.1/2750/SWP-4073-43797558-CISR-305.pdf) (Fuente: Marta Frías), caso que describe la migración de SAP R/2 a SAP R/3.
