@@ -226,6 +226,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
 - **Target y SAP (Canada)**: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 - **SAP y una gran organizacin (Sudáfrica)**: [Learning From a Failed ERP implementation: The Case of a Large South African Organization](https://www.researchgate.net/publication/269928636_Learning_From_a_Failed_ERP_implementation_The_Case_of_a_Large_South_African_Organization) (Fuente: Jorge Blázquez Hernández)
+- **Desconocido y US Department of Health and Human Services**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
 
 ## 2014
 
@@ -251,7 +252,11 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y la cervecera [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja)
 - **Oriola y su ER (Finlandia)**: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
 - **SAP y [Under Armour](https://www.underarmour.com/)**: [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
+- **SAP y Aurizon**: [Aurizon scraps SAP project after copping AU$64m financial impairment](https://www.zdnet.com/article/aurizon-scraps-sap-project-after-copping-au64m-financial-impairment/) (Fuente: Íñigo Úriz)
+- **Kronos y Toronto Paramedic Services**: [$17M scheduling system 'playing Russian roulette' with patient lives, this paramedic warns](https://www.cbc.ca/amp/1.4238742) (Fuente: Íñigo Úriz)
 
 ## 2018
+
+- **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
 
 ## 2019
