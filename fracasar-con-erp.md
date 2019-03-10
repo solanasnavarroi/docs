@@ -47,7 +47,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y AeroGroup/Aerosoles**: [AeroGroup abandona  AFS y R/3](http://www.academia.edu/15433352/Tarea_Caso_de_estudio_a_desarrollar_Aerogroup_International) (Fuente: Hector Herrmann)
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 - **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez 
-- **PeopleSoft (Indiana)** :[Three ERP failure case studies and what you can learn from them](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **PeopleSoft y la Universidad de Indiana** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 
 ## 1999
 
@@ -242,7 +242,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 - **Vodafone y Siebel CRM (UK)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco)
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**: [Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
-- **SAP (Australia)** : [Problemas al pasar de un ERP de treinta años a SAP] (https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **SAP y Woolworth (Australia)** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 
 ## 2016
 
