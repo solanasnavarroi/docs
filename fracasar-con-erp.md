@@ -161,7 +161,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**: [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
 - **SAP y la Ciudad de París**: [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 - **Lawson Software  y [Finning Canada](https://www.finning.com/en_CA.html)**: [How an ERP Debacle Triggered Supply-Chain Transformation at Finning Canada](http://www.supplychainbrain.com/nc/single-article/article/how-an-erp-debacle-triggered-supply-chain-transformation-at-finning-canada/) (Fuente: Adrián Ibáñez)
-- **SAP y [Waste Management](https://www.wm.com/us)**: [SAP, Waste Management settle lawsuit](https://www.computerworld.com/article/2517917/sap--waste-management-settle-lawsuit.html) (Fuente: Ignacio Palacios)
 
 ## 2009
 
