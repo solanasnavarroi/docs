@@ -50,7 +50,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 1999
 
-- **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](http://www.pemeco.com/wp-content/uploads/2013/09/Hershey_ERP_Case_Study.pdf) (Fuente: Andrés Julián) [Enlace modificado - A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.pemeco.com/a-case-study-on-hersheys-erp-implementation-failure-the-importance-of-testing-and-scheduling/) (Fuente: Miguel López)
+- **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.pemeco.com/a-case-study-on-hersheys-erp-implementation-failure-the-importance-of-testing-and-scheduling/) (Fuente: Andrés Julián y Miguel López)
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 - **SAP y Whirpool**: [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu)
 - **SAP y Dow Corning Corporation**  [Business Processes and Information Technology](http://dspace.mit.edu/bitstream/handle/1721.1/2652/SWP-3951-37733560-CISR-298.pdf), que explica por qué abandonan una inversión de 500 M$ en SAP R/2, [Transforming the Organization](http://dspace.mit.edu/bitstream/handle/1721.1/2750/SWP-4073-43797558-CISR-305.pdf) (Fuente: Marta Frías), caso que describe la migración de SAP R/2 a SAP R/3.
@@ -99,7 +99,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 - **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 - **Baan y Dexter Axle**: [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
-- **ERP X (nombre ficticio) y Big Bottler (nombre ficticio)**: [ERP Implementation Failure : A Case Study](http://ce.uoregon.edu/aim/PvsPU08/ERPImplementationFailureCase.pdf) (Fuente: Hector Herrmann) [Enlace corregido - ERP Implementation Failure : A Case Study](https://pdfs.semanticscholar.org/8615/7c69318a73bbaa3d15a0d4a9cdc1b122231f.pdf) (Fuente: Miguel López)
+- **ERP X (nombre ficticio) y Big Bottler (nombre ficticio)**: [ERP Implementation Failure : A Case Study](https://pdfs.semanticscholar.org/8615/7c69318a73bbaa3d15a0d4a9cdc1b122231f.pdf) (Fuente: Hector Herrmann y Miguel López)
 - **SAP y [Goodyear](https://www.goodyear.eu/es_es/consumer.html#/)**: [Goodyear Hits $100M Bump With ERP System](https://www.computerworld.com/article/2573849/enterprise-resource-planning/goodyear-hits--100m-bump-with-erp-system.html) (Fuente: David Sáez)
 - **SAP, PeopleSoft and Oracle  y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**: [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
