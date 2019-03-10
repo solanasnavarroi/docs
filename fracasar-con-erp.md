@@ -47,7 +47,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y AeroGroup/Aerosoles**: [AeroGroup abandona  AFS y R/3](http://www.academia.edu/15433352/Tarea_Caso_de_estudio_a_desarrollar_Aerogroup_International) (Fuente: Hector Herrmann)
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 - **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez 
-- **PeopleSoft (Indiana)** :[Three ERP failure case studies and what you can learn from them] (https://www.erpfocus.com/erp-failure-case-studies.html) (Fuentes: Paula Lardiés)
+- **PeopleSoft (Indiana)** :[Three ERP failure case studies and what you can learn from them](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 
 ## 1999
 
@@ -202,8 +202,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 - **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)**: [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 - **SAP y empresa del sector petrolífero (Turkey)**: [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano)
-- **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering] (https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
-- **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP] (https://www.pcworld.com/article/237939/article.html) ( Fuente: Paula Lardiés)
+- **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
+- **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
 
 ## 2012
 
