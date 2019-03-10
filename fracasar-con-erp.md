@@ -28,7 +28,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
 - **SAP y FoxMeyer Drugs** : [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
-- **SAP y Hershey’s** : [A Case Study on Hershey’s ERP Implementation Failure: The Importance of Testing and Scheduling](https://www.pemeco.com/a-case-study-on-hersheys-erp-implementation-failure-the-importance-of-testing-and-scheduling/) (Fuente: David Ubide)
 
 ## 1997
 
