@@ -269,4 +269,4 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
 
 ## 2019
-- **Oracle peoplesoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) [cuya demanda punto por puntos es esta](https://media.bizj.us/view/img/11216159/crawford.pdf)  (Fuente: Carlos Allo)
+- **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf))  (Fuente: Carlos Allo)
