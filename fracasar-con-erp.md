@@ -93,6 +93,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](http://api.ning.com/files/ZkPg*VLW4CwSJNzE-y60auTqsjdkasKuzd8yPdwhLfgUTHDaf9bGaiQgRc*s9G*VMgYEXmR3iFeVEM2KXrEfAxuNp5JZIugg/JonesNABCorporateCulture105.pdf) (Fuente: Edgar Arnal)
 - **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](http://iceb.nccu.edu.tw/proceedings/2002/PDF/f119.pdf) (Fuente: Alejandro Guiu)
 - **EDS y [British Sky Broadcasting](https://corporate.sky.com/)**: [Sky's CRM plans were too vague to blame us, says EDS](http://www.computerworlduk.com/news/it-management/skys-crm-plans-were-too-vague-to-blame-us-says-eds-5867/) (Fuente: Catalin Dumitrache) y [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
+- **ERP y [automobile manufacturer (empresa ficticia)]:** [ERP Adoption in China: Case One](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
+- **ERP y [material supplier (empresa ficticia)]:** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 ## 2003
 
@@ -119,6 +121,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP no identificado (tier 2 o 3, desarrollado fuera de China) y C (nombre ficticio, equipos eléctricos, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP no identificado (tier 1, desarrollado fuera de China) y D (nombre ficticio, material oficina, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP no identificado (tier 1, desarrollado fuera de China) y E (nombre ficticio, empresa minera, China**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
+- **ERP desconocido y [NYE (nombre ficticio)]**: [Case Analysis – IS and ERP Usage in NYE](http://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Víctor Rodríguez)
 
 ## 2005
 
