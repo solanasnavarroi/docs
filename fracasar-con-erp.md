@@ -174,7 +174,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Infor y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)**: [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
 - **SAP y [Consejo del Condado de Somerset](https://www.visitsomerset.co.uk/)**: [Sapped council staff offered SAP counselling](https://www.theregister.co.uk/2009/06/17/sap_counselling/) (Fuente: Ignacio Palacios)
 
-## 2010
+## 2010
 
 - **JDA i2 y Dillard’s Inc**: [Dillard’s wins $246 million in damages vs. JDA, i2](http://www.reuters.com/article/jdasoftware-idUSSGE65F0GF20100616) (Fuente: Guillermo Azón)
 - **Lawson Software y CareSource Management Group**: [Lawson Software, Customer Embroiled in ERP Project Lawsuit](http://www.pcworld.com/article/239641/lawson_software_customer_embroiled_in_erp_project_lawsuit.html) (Fuente: Beatriz Pérez)
