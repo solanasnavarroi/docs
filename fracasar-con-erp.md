@@ -148,7 +148,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**: [ERP implementation at SMEs: analysis of five Canadian cases](http://www.emeraldinsight.com/doi/abs/10.1108/01443570910925343) (Fuente : Eduardo Navarro)
 - **Ross Systems ERP y Woolf Enterprises**: [Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
-- **SAP R/3 4.5 y [Avison and Malaurent]**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
+- **SAP R/3 4.5 y Avison and Malaurent**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
 
 ## 2008
 
@@ -212,7 +212,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 - **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
 - **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
-- **Banco Columbia (Argentina)** : [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
+- **SAP y Banco Columbia (Argentina)** : [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
 
 ## 2012
 
