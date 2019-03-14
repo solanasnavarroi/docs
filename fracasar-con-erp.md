@@ -48,6 +48,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 - **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez 
 - **PeopleSoft y la Universidad de Indiana** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
 ## 1999
 
