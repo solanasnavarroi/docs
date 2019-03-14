@@ -247,6 +247,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
 - **Ω failed to customize SAP R3**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
 - **SAP y [Condado de Jefferson, Alabama](https://www.jeffco.us/)**: [County set to rip and replace troubled SAP software system](https://www.computerworld.com/article/2607172/county-set-to-rip-and-replace-troubled-sap-software-system.html) (Fuente: Ignacio Palacios)
+- **SAP R/2 y [Dow Chemical Company](https://www.dow.com/en-us)**: [Dow Chemical CIO Says Another 8-Year ERP Project Is Unimaginable](https://blogs.wsj.com/cio/2015/11/30/dow-chemical-cio-says-another-8-year-erp-project-is-unimaginable/), [ERP Project Failures](http://www.synergy-software.com/blog/?p=4978) (Fuente: Israel Solanas)
 
 ## 2015
 
