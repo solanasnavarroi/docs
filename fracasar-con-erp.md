@@ -122,6 +122,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP no identificado (tier 1, desarrollado fuera de China) y D (nombre ficticio, material oficina, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP no identificado (tier 1, desarrollado fuera de China) y E (nombre ficticio, empresa minera, China**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP desconocido y [NYE (nombre ficticio)]**: [Case Analysis – IS and ERP Usage in NYE](http://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Víctor Rodríguez)
+- **BaaN ERP y [Cairo and Alexandria Stock Exchange (CASE) and Capital Market Authority (CMA)]**: [ICT Acceptance, Investment and Organization](https://books.google.es/books?id=mL10BxzzsPkC&pg=PA91&lpg=PA91&dq=erp+fail+egypt&source=bl&ots=PUqKj2kmxO&sig=ACfU3U3jxCe4WAlwnQqEhLM0OEvBzky3CQ&hl=es&sa=X&ved=2ahUKEwij_62-tILhAhVECxoKHVELB9w4ChDoATACegQIARAB#v=onepage&q=erp%20fail%20egypt&f=false) (Fuente: Israel Solanas)
 
 ## 2005
 
@@ -148,7 +149,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**: [ERP implementation at SMEs: analysis of five Canadian cases](http://www.emeraldinsight.com/doi/abs/10.1108/01443570910925343) (Fuente : Eduardo Navarro)
 - **Ross Systems ERP y Woolf Enterprises**: [Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
-- **SAP R/3 4.5 y [Avison and Malaurent]**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
+- **SAP R/3 4.5 y Avison and Malaurent**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
 
 ## 2008
 
@@ -212,7 +213,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 - **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
 - **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
-- **Banco Columbia (Argentina)** : [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
+- **SAP y Banco Columbia (Argentina)** : [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
 
 ## 2012
 
@@ -247,6 +248,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
 - **Ω failed to customize SAP R3**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
 - **SAP y [Condado de Jefferson, Alabama](https://www.jeffco.us/)**: [County set to rip and replace troubled SAP software system](https://www.computerworld.com/article/2607172/county-set-to-rip-and-replace-troubled-sap-software-system.html) (Fuente: Ignacio Palacios)
+- **SAP R/2 y [Dow Chemical Company](https://www.dow.com/en-us)**: [Dow Chemical CIO Says Another 8-Year ERP Project Is Unimaginable](https://blogs.wsj.com/cio/2015/11/30/dow-chemical-cio-says-another-8-year-erp-project-is-unimaginable/), [ERP Project Failures](http://www.synergy-software.com/blog/?p=4978) (Fuente: Israel Solanas)
 
 ## 2015
 
