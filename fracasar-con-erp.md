@@ -93,6 +93,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](http://api.ning.com/files/ZkPg*VLW4CwSJNzE-y60auTqsjdkasKuzd8yPdwhLfgUTHDaf9bGaiQgRc*s9G*VMgYEXmR3iFeVEM2KXrEfAxuNp5JZIugg/JonesNABCorporateCulture105.pdf) (Fuente: Edgar Arnal)
 - **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](http://iceb.nccu.edu.tw/proceedings/2002/PDF/f119.pdf) (Fuente: Alejandro Guiu)
 - **EDS y [British Sky Broadcasting](https://corporate.sky.com/)**: [Sky's CRM plans were too vague to blame us, says EDS](http://www.computerworlduk.com/news/it-management/skys-crm-plans-were-too-vague-to-blame-us-says-eds-5867/) (Fuente: Catalin Dumitrache) y [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
+- **ERP y [automobile manufacturer (empresa ficticia)]:** [ERP Adoption in China: Case One](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
+- **ERP y [material supplier (empresa ficticia)]:** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 ## 2003
 
@@ -119,6 +121,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP no identificado (tier 2 o 3, desarrollado fuera de China) y C (nombre ficticio, equipos eléctricos, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP no identificado (tier 1, desarrollado fuera de China) y D (nombre ficticio, material oficina, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP no identificado (tier 1, desarrollado fuera de China) y E (nombre ficticio, empresa minera, China**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
+- **ERP desconocido y [NYE (nombre ficticio)]**: [Case Analysis – IS and ERP Usage in NYE](http://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Víctor Rodríguez)
 
 ## 2005
 
@@ -145,6 +148,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**: [ERP implementation at SMEs: analysis of five Canadian cases](http://www.emeraldinsight.com/doi/abs/10.1108/01443570910925343) (Fuente : Eduardo Navarro)
 - **Ross Systems ERP y Woolf Enterprises**: [Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
+- **SAP R/3 4.5 y [Avison and Malaurent]**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
 
 ## 2008
 
@@ -174,7 +178,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Infor y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)**: [Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
 - **SAP y [Consejo del Condado de Somerset](https://www.visitsomerset.co.uk/)**: [Sapped council staff offered SAP counselling](https://www.theregister.co.uk/2009/06/17/sap_counselling/) (Fuente: Ignacio Palacios)
 
-## 2010
+## 2010
 
 - **JDA i2 y Dillard’s Inc**: [Dillard’s wins $246 million in damages vs. JDA, i2](http://www.reuters.com/article/jdasoftware-idUSSGE65F0GF20100616) (Fuente: Guillermo Azón)
 - **Lawson Software y CareSource Management Group**: [Lawson Software, Customer Embroiled in ERP Project Lawsuit](http://www.pcworld.com/article/239641/lawson_software_customer_embroiled_in_erp_project_lawsuit.html) (Fuente: Beatriz Pérez)
